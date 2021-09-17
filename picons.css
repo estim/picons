@@ -1,0 +1,5189 @@
+.picon:before {
+    font-family: Picons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.picon.Essentials-compose_write_pencil_new:before {
+    content: "\f101";
+}
+.picon.Essentials-write_pencil_new_edit:before {
+    content: "\f102";
+}
+.picon.Essentials-write_pencil_new_edit:before {
+    content: "\f103";
+}
+.picon.Essentials-pencil_ruler_drawing:before {
+    content: "\f104";
+}
+.picon.Essentials-write_pen_handwriting_signing:before {
+    content: "\f105";
+}
+.picon.Essentials-book_writing_reading_read_manual:before {
+    content: "\f106";
+}
+.picon.Essentials-book_reading_read_bookmark:before {
+    content: "\f107";
+}
+.picon.Essentials-book_reading_read_manual:before {
+    content: "\f108";
+}
+.picon.Essentials-book_reading_read_manual:before {
+    content: "\f109";
+}
+.picon.Essentials-newspaper_reading_news:before {
+    content: "\f10a";
+}
+.picon.Essentials-reading_glasses:before {
+    content: "\f10b";
+}
+.picon.Essentials-notebook_paper_certificate:before {
+    content: "\f10c";
+}
+.picon.Essentials-notebook_paper:before {
+    content: "\f10d";
+}
+.picon.Essentials-notebook_paper_todo:before {
+    content: "\f10e";
+}
+.picon.Essentials-fountain_pen:before {
+    content: "\f10f";
+}
+.picon.Essentials-bookmarks_reading_book:before {
+    content: "\f110";
+}
+.picon.Essentials-office_archive:before {
+    content: "\f111";
+}
+.picon.Essentials-office_trash_bin:before {
+    content: "\f112";
+}
+.picon.Essentials-mobile_iphone:before {
+    content: "\f113";
+}
+.picon.Essentials-ipad_reading_mobile:before {
+    content: "\f114";
+}
+.picon.Essentials-calendar_month_day_planner:before {
+    content: "\f115";
+}
+.picon.Essentials-calendar_month_day_planner:before {
+    content: "\f116";
+}
+.picon.Essentials-calendar_month_day_planner_events:before {
+    content: "\f117";
+}
+.picon.Essentials-calendar_month_day_planner_events:before {
+    content: "\f118";
+}
+.picon.Essentials-alarm_clock_ringer_time_morning:before {
+    content: "\f119";
+}
+.picon.Essentials-time_watch_clock:before {
+    content: "\f11a";
+}
+.picon.Essentials-stopwatch_timer_running_time:before {
+    content: "\f11b";
+}
+.picon.Essentials-time_watch_clock_wall:before {
+    content: "\f11c";
+}
+.picon.Essentials-time_watch_clock_wall:before {
+    content: "\f11d";
+}
+.picon.Essentials-wrist_watch_clock_time:before {
+    content: "\f11e";
+}
+.picon.Essentials-pin_bookmark:before {
+    content: "\f11f";
+}
+.picon.Essentials-flag:before {
+    content: "\f120";
+}
+.picon.Essentials-search_find_zoom:before {
+    content: "\f121";
+}
+.picon.Essentials-search_find_zoom:before {
+    content: "\f122";
+}
+.picon.Essentials-bookmark_tag:before {
+    content: "\f123";
+}
+.picon.Essentials-share_facebook_social:before {
+    content: "\f124";
+}
+.picon.Essentials-smiley_happy_like_face:before {
+    content: "\f125";
+}
+.picon.Essentials-smiley_neutral_face:before {
+    content: "\f126";
+}
+.picon.Essentials-smiley_sad_face_unhappy:before {
+    content: "\f127";
+}
+.picon.Essentials-exit_logout_door_emergency_outside:before {
+    content: "\f128";
+}
+.picon.Essentials-filter_funnel:before {
+    content: "\f129";
+}
+.picon.Essentials-attachment:before {
+    content: "\f12a";
+}
+.picon.Essentials-eye_visibility_show_visible:before {
+    content: "\f12b";
+}
+.picon.Essentials-eye_visibility_hide_invisible:before {
+    content: "\f12c";
+}
+.picon.Essentials-home_house:before {
+    content: "\f12d";
+}
+.picon.Essentials-home_house:before {
+    content: "\f12e";
+}
+.picon.Essentials-home_flat:before {
+    content: "\f12f";
+}
+.picon.Essentials-factory_work:before {
+    content: "\f130";
+}
+.picon.Essentials-settings_panel_equalizer_preferences:before {
+    content: "\f131";
+}
+.picon.Essentials-settings_panel_equalizer_preferences:before {
+    content: "\f132";
+}
+.picon.Essentials-settings_gear_preferences:before {
+    content: "\f133";
+}
+.picon.Essentials-settings_gears_preferences_gearbox:before {
+    content: "\f134";
+}
+.picon.Essentials-settings_tools_pipe:before {
+    content: "\f135";
+}
+.picon.Essentials-settings_tools_configuration_preferences:before {
+    content: "\f136";
+}
+.picon.Essentials-settings_tools_configuration_preferences:before {
+    content: "\f137";
+}
+.picon.Essentials-bin_trash_recycle_delete_garbage_empty:before {
+    content: "\f138";
+}
+.picon.Essentials-bin_trash_recycle_delete_garbage_full:before {
+    content: "\f139";
+}
+.picon.Essentials-bin_trash_recycle_delete_garbage:before {
+    content: "\f13a";
+}
+.picon.Essentials-error_warning_danger_stop:before {
+    content: "\f13b";
+}
+.picon.Essentials-error_warning_danger_stop_delete_exit:before {
+    content: "\f13c";
+}
+.picon.Essentials-error_warning_alert_attention:before {
+    content: "\f13d";
+}
+.picon.Essentials-unable_unavailable_error:before {
+    content: "\f13e";
+}
+.picon.Essentials-text_line_view:before {
+    content: "\f13f";
+}
+.picon.Essentials-bullet_list_view:before {
+    content: "\f140";
+}
+.picon.Essentials-bullet_list_view:before {
+    content: "\f141";
+}
+.picon.Essentials-grid_view:before {
+    content: "\f142";
+}
+.picon.Essentials-line_thumb_view:before {
+    content: "\f143";
+}
+.picon.Essentials-text_image_article_view:before {
+    content: "\f144";
+}
+.picon.Essentials-box_load_package_module:before {
+    content: "\f145";
+}
+.picon.Essentials-thin-0069a_menu_hambuger:before {
+    content: "\f146";
+}
+.picon.Files-and-Documents-paper_role:before {
+    content: "\f147";
+}
+.picon.Files-and-Documents-document_file_paper:before {
+    content: "\f148";
+}
+.picon.Files-and-Documents-document_file_paper_text:before {
+    content: "\f149";
+}
+.picon.Files-and-Documents-documents_files_paper_text_archive_copy:before {
+    content: "\f14a";
+}
+.picon.Files-and-Documents-document_file_delete_remove_error:before {
+    content: "\f14b";
+}
+.picon.Files-and-Documents-document_file_paper_text_article_blog_template:before {
+    content: "\f14c";
+}
+.picon.Files-and-Documents-document_file_zip_archive_compressed_rar:before {
+    content: "\f14d";
+}
+.picon.Files-and-Documents-document_file_pdf_adobe_acrobat:before {
+    content: "\f14e";
+}
+.picon.Files-and-Documents-document_file_word_office_doc_text:before {
+    content: "\f14f";
+}
+.picon.Files-and-Documents-document_file_cloud_sync_backup:before {
+    content: "\f150";
+}
+.picon.Files-and-Documents-file_code_programming_dev_binary:before {
+    content: "\f151";
+}
+.picon.Files-and-Documents-video_movie_file_player:before {
+    content: "\f152";
+}
+.picon.Files-and-Documents-image_photo_file:before {
+    content: "\f153";
+}
+.picon.Files-and-Documents-font_file_ttf_otf_type_text:before {
+    content: "\f154";
+}
+.picon.Files-and-Documents-file_preferences_settings:before {
+    content: "\f155";
+}
+.picon.Files-and-Documents-file_search_find_replace_zoom_view:before {
+    content: "\f156";
+}
+.picon.Files-and-Documents-import_file_load:before {
+    content: "\f157";
+}
+.picon.Files-and-Documents-export_file:before {
+    content: "\f158";
+}
+.picon.Files-and-Documents-download_file:before {
+    content: "\f159";
+}
+.picon.Files-and-Documents-upload_file:before {
+    content: "\f15a";
+}
+.picon.Files-and-Documents-cv_curriculum_vitae_job_life:before {
+    content: "\f15b";
+}
+.picon.Files-and-Documents-file_profile_user_personal:before {
+    content: "\f15c";
+}
+.picon.Files-and-Documents-file_profile_user_personal:before {
+    content: "\f15d";
+}
+.picon.Files-and-Documents-list_bullets:before {
+    content: "\f15e";
+}
+.picon.Files-and-Documents-file_table:before {
+    content: "\f15f";
+}
+.picon.Files-and-Documents-file_protected_password_security:before {
+    content: "\f160";
+}
+.picon.Files-and-Documents-file_attachment:before {
+    content: "\f161";
+}
+.picon.Files-and-Documents-file_text_long:before {
+    content: "\f162";
+}
+.picon.Files-and-Documents-file_document_legal_text:before {
+    content: "\f163";
+}
+.picon.Files-and-Documents-legal_document_law_license:before {
+    content: "\f164";
+}
+.picon.Files-and-Documents-to_do_list_reminder_done:before {
+    content: "\f165";
+}
+.picon.Files-and-Documents-notes_text_notebook:before {
+    content: "\f166";
+}
+.picon.Files-and-Documents-notebook_to_do_bullets_list:before {
+    content: "\f167";
+}
+.picon.Files-and-Documents-box_clipboard:before {
+    content: "\f168";
+}
+.picon.Files-and-Documents-load_upload_clipboard_box:before {
+    content: "\f169";
+}
+.picon.Files-and-Documents-download_clipboard_box:before {
+    content: "\f16a";
+}
+.picon.Files-and-Documents-clipboard_box_archive_documents:before {
+    content: "\f16b";
+}
+.picon.Files-and-Documents-zoom_in:before {
+    content: "\f16c";
+}
+.picon.Files-and-Documents-zoom_out:before {
+    content: "\f16d";
+}
+.picon.Files-and-Documents-search_find_files_folder:before {
+    content: "\f16e";
+}
+.picon.Files-and-Documents-folder:before {
+    content: "\f16f";
+}
+.picon.Files-and-Documents-folder_files_documents:before {
+    content: "\f170";
+}
+.picon.Files-and-Documents-folder_images_photos:before {
+    content: "\f171";
+}
+.picon.Files-and-Documents-folder_password_protected_secure_private:before {
+    content: "\f172";
+}
+.picon.Files-and-Documents-folder_cloud_sync_backup:before {
+    content: "\f173";
+}
+.picon.Files-and-Documents-folder_preferences_options_settings:before {
+    content: "\f174";
+}
+.picon.Files-and-Documents-folder_upload:before {
+    content: "\f175";
+}
+.picon.Files-and-Documents-folder_documents_revert_history:before {
+    content: "\f176";
+}
+.picon.Files-and-Documents-folder_open:before {
+    content: "\f177";
+}
+.picon.Files-and-Documents-folder_open_full_documents:before {
+    content: "\f178";
+}
+.picon.Files-and-Documents-download_computer:before {
+    content: "\f179";
+}
+.picon.Files-and-Documents-download_file:before {
+    content: "\f17a";
+}
+.picon.Files-and-Documents-download_file_computer_drive:before {
+    content: "\f17b";
+}
+.picon.Files-and-Documents-download_cloud_file_sync:before {
+    content: "\f17c";
+}
+.picon.Files-and-Documents-upload_cloud_file_sync_backup:before {
+    content: "\f17d";
+}
+.picon.Files-and-Documents-cloud_sync:before {
+    content: "\f17e";
+}
+.picon.Files-and-Documents-cloud_upload_backup_:before {
+    content: "\f17f";
+}
+.picon.Files-and-Documents-cloud_sync_error:before {
+    content: "\f180";
+}
+.picon.Files-and-Documents-upload_load_share:before {
+    content: "\f181";
+}
+.picon.Files-and-Documents-download:before {
+    content: "\f182";
+}
+.picon.Files-and-Documents-structure_map_files:before {
+    content: "\f183";
+}
+.picon.GUI-elements-arrow_back_undo:before {
+    content: "\f184";
+}
+.picon.GUI-elements-arrow_back_left_:before {
+    content: "\f185";
+}
+.picon.GUI-elements-arrow_right_next:before {
+    content: "\f186";
+}
+.picon.GUI-elements-arrow_rotate_left_counter_clockwise:before {
+    content: "\f187";
+}
+.picon.GUI-elements-arrow_rotate_right_clockwise:before {
+    content: "\f188";
+}
+.picon.GUI-elements-rotation_lock:before {
+    content: "\f189";
+}
+.picon.GUI-elements-zoom_expand_maximize_window:before {
+    content: "\f18a";
+}
+.picon.GUI-elements-expand_move_window_full_screen:before {
+    content: "\f18b";
+}
+.picon.GUI-elements-window_new_extern_full_screen_maximize:before {
+    content: "\f18c";
+}
+.picon.GUI-elements-airplay_screen_sharing:before {
+    content: "\f18d";
+}
+.picon.GUI-elements-rotate_back_revert_undo:before {
+    content: "\f18e";
+}
+.picon.GUI-elements-rotate_sync:before {
+    content: "\f18f";
+}
+.picon.GUI-elements-rotate_clockwise:before {
+    content: "\f190";
+}
+.picon.GUI-elements-arrows_play_shuffle:before {
+    content: "\f191";
+}
+.picon.GUI-elements-arrows_play_repeat:before {
+    content: "\f192";
+}
+.picon.GUI-elements-arrows_fast_forward:before {
+    content: "\f193";
+}
+.picon.GUI-elements-arrows_divide_split:before {
+    content: "\f194";
+}
+.picon.GUI-elements-arrows_directions_left_right:before {
+    content: "\f195";
+}
+.picon.GUI-elements-arrows_curves:before {
+    content: "\f196";
+}
+.picon.GUI-elements-resize_left_right:before {
+    content: "\f197";
+}
+.picon.GUI-elements-plus_add_new:before {
+    content: "\f198";
+}
+.picon.GUI-elements-minus_delete_remove:before {
+    content: "\f199";
+}
+.picon.GUI-elements-delete_exit_remove_close:before {
+    content: "\f19a";
+}
+.picon.GUI-elements-ok_successful_check:before {
+    content: "\f19b";
+}
+.picon.GUI-elements-delete_remove_exit_close_checkbox:before {
+    content: "\f19c";
+}
+.picon.GUI-elements-checkbox_ok_successful:before {
+    content: "\f19d";
+}
+.picon.GUI-elements-arrow_back_left:before {
+    content: "\f19e";
+}
+.picon.GUI-elements-arrow_next_right:before {
+    content: "\f19f";
+}
+.picon.GUI-elements-arrow_back_left:before {
+    content: "\f1a0";
+}
+.picon.GUI-elements-arrow_next_right:before {
+    content: "\f1a1";
+}
+.picon.GUI-elements-on_off_switch_toggle_settings_preferences:before {
+    content: "\f1a2";
+}
+.picon.GUI-elements-on_off_switch_toggle_settings_preferences:before {
+    content: "\f1a3";
+}
+.picon.GUI-elements-on_off_switch_toggle_settings_preferences:before {
+    content: "\f1a4";
+}
+.picon.GUI-elements-on_off_switch_toggle_settings_preferences:before {
+    content: "\f1a5";
+}
+.picon.GUI-elements-on_off_switch_toggle_settings_preferences:before {
+    content: "\f1a6";
+}
+.picon.GUI-elements-back_delete_backspace:before {
+    content: "\f1a7";
+}
+.picon.GUI-elements-plus_minus:before {
+    content: "\f1a8";
+}
+.picon.GUI-elements-check_ok_yes_no:before {
+    content: "\f1a9";
+}
+.picon.GUI-elements-target_circles:before {
+    content: "\f1aa";
+}
+.picon.GUI-elements-puzzle_modules_build:before {
+    content: "\f1ab";
+}
+.picon.GUI-elements-filter_funnel:before {
+    content: "\f1ac";
+}
+.picon.GUI-elements-structure_menu_submenu_navigation:before {
+    content: "\f1ad";
+}
+.picon.GUI-elements-structure_menu_submenu_navigation:before {
+    content: "\f1ae";
+}
+.picon.GUI-elements-archive_open_slide:before {
+    content: "\f1af";
+}
+.picon.GUI-elements-slideshow:before {
+    content: "\f1b0";
+}
+.picon.GUI-elements-module_connection_plugin:before {
+    content: "\f1b1";
+}
+.picon.GUI-elements-puzzle_module_connect:before {
+    content: "\f1b2";
+}
+.picon.GUI-elements-add_more_layers_slides:before {
+    content: "\f1b3";
+}
+.picon.GUI-elements-layers_slides:before {
+    content: "\f1b4";
+}
+.picon.GUI-elements-www_website_address_url_browser:before {
+    content: "\f1b5";
+}
+.picon.GUI-elements-dropdown_menu_select_option_form:before {
+    content: "\f1b6";
+}
+.picon.GUI-elements-screen_ok_success:before {
+    content: "\f1b7";
+}
+.picon.GUI-elements-screen_text:before {
+    content: "\f1b8";
+}
+.picon.GUI-elements-screen_text_images_presentation:before {
+    content: "\f1b9";
+}
+.picon.GUI-elements-screen_grid_images:before {
+    content: "\f1ba";
+}
+.picon.GUI-elements-window_text_images:before {
+    content: "\f1bb";
+}
+.picon.GUI-elements-window_graph_analytics:before {
+    content: "\f1bc";
+}
+.picon.GUI-elements-window_text_msg_box:before {
+    content: "\f1bd";
+}
+.picon.GUI-elements-window_alert_notification_warning_error:before {
+    content: "\f1be";
+}
+.picon.GUI-elements-window_error_danger_stop:before {
+    content: "\f1bf";
+}
+.picon.GUI-elements-window_application_cursor:before {
+    content: "\f1c0";
+}
+.picon.GUI-elements-window_application_code_shell_terminal:before {
+    content: "\f1c1";
+}
+.picon.GUI-elements-window_application_settings_preferences:before {
+    content: "\f1c2";
+}
+.picon.GUI-elements-layout_columns_sidemenu:before {
+    content: "\f1c3";
+}
+.picon.GUI-elements-layout_columns_three:before {
+    content: "\f1c4";
+}
+.picon.GUI-elements-layout_columns_title:before {
+    content: "\f1c5";
+}
+.picon.GUI-elements-layout_grid_view:before {
+    content: "\f1c6";
+}
+.picon.GUI-elements-battery_charge_empty:before {
+    content: "\f1c7";
+}
+.picon.GUI-elements-battery_charge_empty:before {
+    content: "\f1c8";
+}
+.picon.GUI-elements-battery_charge_half_empty:before {
+    content: "\f1c9";
+}
+.picon.GUI-elements-battery_charge_full:before {
+    content: "\f1ca";
+}
+.picon.GUI-elements-battery_charge_full:before {
+    content: "\f1cb";
+}
+.picon.GUI-elements-battery_charging_energy:before {
+    content: "\f1cc";
+}
+.picon.GUI-elements-bullets_list_radiobuttons:before {
+    content: "\f1cd";
+}
+.picon.GUI-elements-bullets_list:before {
+    content: "\f1ce";
+}
+.picon.GUI-elements-list_checkbox_todo:before {
+    content: "\f1cf";
+}
+.picon.GUI-elements-list_checkbox_todo_done:before {
+    content: "\f1d0";
+}
+.picon.GUI-elements-grid_view:before {
+    content: "\f1d1";
+}
+.picon.GUI-elements-radiobuttons_bullets_lines:before {
+    content: "\f1d2";
+}
+.picon.GUI-elements-checkboxes_lines_check:before {
+    content: "\f1d3";
+}
+.picon.Touch-gestures-hand_touch_one_finger:before {
+    content: "\f1d4";
+}
+.picon.Touch-gestures-hand_touch_click_one_finger:before {
+    content: "\f1d5";
+}
+.picon.Touch-gestures-hand_touch_click_press_one_finger:before {
+    content: "\f1d6";
+}
+.picon.Touch-gestures-hand_touch_click_two_finger:before {
+    content: "\f1d7";
+}
+.picon.Touch-gestures-hand_two_finger_swipe_right:before {
+    content: "\f1d8";
+}
+.picon.Touch-gestures-hand_two_finger_swipe_left:before {
+    content: "\f1d9";
+}
+.picon.Touch-gestures-hand_two_finger_swipe_right:before {
+    content: "\f1da";
+}
+.picon.Touch-gestures-hand_two_finger_swipe_left:before {
+    content: "\f1db";
+}
+.picon.Touch-gestures-hand_one_finger_swipe_right:before {
+    content: "\f1dc";
+}
+.picon.Touch-gestures-hand_one_finger_swipe_left:before {
+    content: "\f1dd";
+}
+.picon.Touch-gestures-hand_one_finger_swipe_down_scroll:before {
+    content: "\f1de";
+}
+.picon.Touch-gestures-hand_one_finger_swipe_up_scroll:before {
+    content: "\f1df";
+}
+.picon.Touch-gestures-hand_two_finger_swipe_down:before {
+    content: "\f1e0";
+}
+.picon.Touch-gestures-hand_two_finger_swipe_up:before {
+    content: "\f1e1";
+}
+.picon.Touch-gestures-hand_two_finger_pinch_zoom:before {
+    content: "\f1e2";
+}
+.picon.Touch-gestures-hand_two_finger_pinch_zoom:before {
+    content: "\f1e3";
+}
+.picon.Touch-gestures-hand_three_finger_swipe_scroll_down:before {
+    content: "\f1e4";
+}
+.picon.Touch-gestures-hand_three_finger_swipe_scroll_up:before {
+    content: "\f1e5";
+}
+.picon.Touch-gestures-hand_three_finger_swipe_right:before {
+    content: "\f1e6";
+}
+.picon.Touch-gestures-hand_three_finger_swipe_left:before {
+    content: "\f1e7";
+}
+.picon.Touch-gestures-hand_finger_show_right:before {
+    content: "\f1e8";
+}
+.picon.Touch-gestures-hand_finger_show_left:before {
+    content: "\f1e9";
+}
+.picon.Touch-gestures-hand_fingers_grab_touch:before {
+    content: "\f1ea";
+}
+.picon.Touch-gestures-thin-0233a_hand_finger:before {
+    content: "\f1eb";
+}
+.picon.Touch-gestures-thin-0233b_hand_two_fingers:before {
+    content: "\f1ec";
+}
+.picon.Text-editing-text_align_left_paragraph:before {
+    content: "\f1ed";
+}
+.picon.Text-editing-text_align_center_paragraph:before {
+    content: "\f1ee";
+}
+.picon.Text-editing-text_align_right_paragraph:before {
+    content: "\f1ef";
+}
+.picon.Text-editing-text_align_justify_last_line_left_paragraph:before {
+    content: "\f1f0";
+}
+.picon.Text-editing-text_align_justify_last_line_right_paragraph:before {
+    content: "\f1f1";
+}
+.picon.Text-editing-text_align_justify_paragraph:before {
+    content: "\f1f2";
+}
+.picon.Text-editing-text_align_right_indent:before {
+    content: "\f1f3";
+}
+.picon.Text-editing-text_align_left_indent:before {
+    content: "\f1f4";
+}
+.picon.Text-editing-text_line_height_leading:before {
+    content: "\f1f5";
+}
+.picon.Text-editing-text_line_height_leading:before {
+    content: "\f1f6";
+}
+.picon.Text-editing-text_bullets_list:before {
+    content: "\f1f7";
+}
+.picon.Text-editing-text_numbered_list:before {
+    content: "\f1f8";
+}
+.picon.Text-editing-text_font_size_smaller:before {
+    content: "\f1f9";
+}
+.picon.Text-editing-text_font_size_larger:before {
+    content: "\f1fa";
+}
+.picon.Text-editing-text_paragraph_indent_right:before {
+    content: "\f1fb";
+}
+.picon.Text-editing-text_paragraph_indent_left:before {
+    content: "\f1fc";
+}
+.picon.Text-editing-text_line_order:before {
+    content: "\f1fd";
+}
+.picon.Text-editing-text_paragraph_line_spacing:before {
+    content: "\f1fe";
+}
+.picon.Text-editing-text_spelling_check:before {
+    content: "\f1ff";
+}
+.picon.Text-editing-image_frame_size_rotate_resize:before {
+    content: "\f200";
+}
+.picon.Text-editing-copy:before {
+    content: "\f201";
+}
+.picon.Text-editing-paste_clipboard:before {
+    content: "\f202";
+}
+.picon.Text-editing-input_box_text_edit:before {
+    content: "\f203";
+}
+.picon.Text-editing-button:before {
+    content: "\f204";
+}
+.picon.Text-editing-code_html:before {
+    content: "\f205";
+}
+.picon.Text-editing-code_html:before {
+    content: "\f206";
+}
+.picon.Text-editing-link_url_chain_hyperlink:before {
+    content: "\f207";
+}
+.picon.Text-editing-unlink_url_unchain_hyperlink:before {
+    content: "\f208";
+}
+.picon.Text-editing-remove_clear_text_style:before {
+    content: "\f209";
+}
+.picon.Text-editing-text_font_typography:before {
+    content: "\f20a";
+}
+.picon.Text-editing-text_style_bold:before {
+    content: "\f20b";
+}
+.picon.Text-editing-text_style_italic:before {
+    content: "\f20c";
+}
+.picon.Text-editing-text_style_underline:before {
+    content: "\f20d";
+}
+.picon.Text-editing-text_style_strikethrough:before {
+    content: "\f20e";
+}
+.picon.Text-editing-text_style_superscript:before {
+    content: "\f20f";
+}
+.picon.Text-editing-text_style_subscript:before {
+    content: "\f210";
+}
+.picon.Text-editing-image_frame_crop_resize:before {
+    content: "\f211";
+}
+.picon.Text-editing-text_image_align_wrap:before {
+    content: "\f212";
+}
+.picon.Text-editing-text_image_align_top_bottom:before {
+    content: "\f213";
+}
+.picon.Text-editing-video_multimedia_movie:before {
+    content: "\f214";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble:before {
+    content: "\f215";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble_typing:before {
+    content: "\f216";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble_add_new:before {
+    content: "\f217";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble_like_favorite:before {
+    content: "\f218";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble_tweet_twitter:before {
+    content: "\f219";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble:before {
+    content: "\f21a";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble_reply_quote:before {
+    content: "\f21b";
+}
+.picon.Communication-and-Messaging-chat_message_discussion_bubble_reply_conversation:before {
+    content: "\f21c";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble_cloud:before {
+    content: "\f21d";
+}
+.picon.Communication-and-Messaging-chat_message_comment_bubble_cloud:before {
+    content: "\f21e";
+}
+.picon.Communication-and-Messaging-message_text_like_favorite:before {
+    content: "\f21f";
+}
+.picon.Communication-and-Messaging-chat_message_quote_reply:before {
+    content: "\f220";
+}
+.picon.Communication-and-Messaging-mobile_message_sms:before {
+    content: "\f221";
+}
+.picon.Communication-and-Messaging-mobile_message_sms:before {
+    content: "\f222";
+}
+.picon.Communication-and-Messaging-mobile_phone_call:before {
+    content: "\f223";
+}
+.picon.Communication-and-Messaging-mobile_phone_call_ringing_nfc:before {
+    content: "\f224";
+}
+.picon.Communication-and-Messaging-phone_telephone_contact:before {
+    content: "\f225";
+}
+.picon.Communication-and-Messaging-phone_mobile_contact:before {
+    content: "\f226";
+}
+.picon.Communication-and-Messaging-phone_contact:before {
+    content: "\f227";
+}
+.picon.Communication-and-Messaging-phone_call_number_dialer:before {
+    content: "\f228";
+}
+.picon.Communication-and-Messaging-phone_call_ringing:before {
+    content: "\f229";
+}
+.picon.Communication-and-Messaging-phone_hold_call:before {
+    content: "\f22a";
+}
+.picon.Communication-and-Messaging-phone_call_contact:before {
+    content: "\f22b";
+}
+.picon.Communication-and-Messaging-address_book_contacts:before {
+    content: "\f22c";
+}
+.picon.Communication-and-Messaging-address_book_contacts:before {
+    content: "\f22d";
+}
+.picon.Communication-and-Messaging-address_book_contacts:before {
+    content: "\f22e";
+}
+.picon.Communication-and-Messaging-address_book_contacts:before {
+    content: "\f22f";
+}
+.picon.Communication-and-Messaging-address_book_contacts:before {
+    content: "\f230";
+}
+.picon.Communication-and-Messaging-sim_card:before {
+    content: "\f231";
+}
+.picon.Communication-and-Messaging-notification_badge:before {
+    content: "\f232";
+}
+.picon.Communication-and-Messaging-chat_contact_support_help_conversation:before {
+    content: "\f233";
+}
+.picon.Communication-and-Messaging-chat_message_discussion_bubble_conversation:before {
+    content: "\f234";
+}
+.picon.Communication-and-Messaging-chat_message_discussion_bubble_conversation:before {
+    content: "\f235";
+}
+.picon.Communication-and-Messaging-chat_discussion_yes_no_pro_contra_conversation:before {
+    content: "\f236";
+}
+.picon.Communication-and-Messaging-support_help:before {
+    content: "\f237";
+}
+.picon.Communication-and-Messaging-support_help_talk_call:before {
+    content: "\f238";
+}
+.picon.Communication-and-Messaging-support_help_talk_call:before {
+    content: "\f239";
+}
+.picon.Communication-and-Messaging-stamp:before {
+    content: "\f23a";
+}
+.picon.Communication-and-Messaging-post_stamp:before {
+    content: "\f23b";
+}
+.picon.Communication-and-Messaging-email_at_sign:before {
+    content: "\f23c";
+}
+.picon.Communication-and-Messaging-email_mail_post_card:before {
+    content: "\f23d";
+}
+.picon.Communication-and-Messaging-email_mail_post_send:before {
+    content: "\f23e";
+}
+.picon.Communication-and-Messaging-email_mail_post_open:before {
+    content: "\f23f";
+}
+.picon.Communication-and-Messaging-send_post_paper_plane:before {
+    content: "\f240";
+}
+.picon.Communication-and-Messaging-email_attachment:before {
+    content: "\f241";
+}
+.picon.Communication-and-Messaging-email_mail_post_card:before {
+    content: "\f242";
+}
+.picon.Communication-and-Messaging-email_mail_post_card_sent_successful:before {
+    content: "\f243";
+}
+.picon.Communication-and-Messaging-email_mail_post_at:before {
+    content: "\f244";
+}
+.picon.Communication-and-Messaging-mail_post_box:before {
+    content: "\f245";
+}
+.picon.Computers-and-Tech-computer_desktop:before {
+    content: "\f246";
+}
+.picon.Computers-and-Tech-computer_screen:before {
+    content: "\f247";
+}
+.picon.Computers-and-Tech-computer_screen_cloud:before {
+    content: "\f248";
+}
+.picon.Computers-and-Tech-computer_screen_users_profile:before {
+    content: "\f249";
+}
+.picon.Computers-and-Tech-computer_screen_settings_preferences:before {
+    content: "\f24a";
+}
+.picon.Computers-and-Tech-computer_screen_locked_password_protected_security:before {
+    content: "\f24b";
+}
+.picon.Computers-and-Tech-computer_laptop_user_login:before {
+    content: "\f24c";
+}
+.picon.Computers-and-Tech-computer_laptop_download:before {
+    content: "\f24d";
+}
+.picon.Computers-and-Tech-computer_laptop_analytics_graph:before {
+    content: "\f24e";
+}
+.picon.Computers-and-Tech-computer_laptop_website_url_www:before {
+    content: "\f24f";
+}
+.picon.Computers-and-Tech-printer:before {
+    content: "\f250";
+}
+.picon.Computers-and-Tech-shredder_paper:before {
+    content: "\f251";
+}
+.picon.Computers-and-Tech-cd_dvd_disc_software:before {
+    content: "\f252";
+}
+.picon.Computers-and-Tech-disc_floppy_save_software:before {
+    content: "\f253";
+}
+.picon.Computers-and-Tech-keyboard_connect:before {
+    content: "\f254";
+}
+.picon.Computers-and-Tech-keyboard_wired:before {
+    content: "\f255";
+}
+.picon.Computers-and-Tech-keyboard_wireless:before {
+    content: "\f256";
+}
+.picon.Computers-and-Tech-mouse:before {
+    content: "\f257";
+}
+.picon.Computers-and-Tech-mouse_wireless:before {
+    content: "\f258";
+}
+.picon.Computers-and-Tech-remote_control:before {
+    content: "\f259";
+}
+.picon.Computers-and-Tech-ipad_tablet:before {
+    content: "\f25a";
+}
+.picon.Computers-and-Tech-iphone_mobile:before {
+    content: "\f25b";
+}
+.picon.Computers-and-Tech-chip_cpu_64_bit_processor:before {
+    content: "\f25c";
+}
+.picon.Computers-and-Tech-magnet:before {
+    content: "\f25d";
+}
+.picon.Computers-and-Tech-usb:before {
+    content: "\f25e";
+}
+.picon.Computers-and-Tech-thunderbolt:before {
+    content: "\f25f";
+}
+.picon.Computers-and-Tech-usb_connect:before {
+    content: "\f260";
+}
+.picon.Computers-and-Tech-apple_connect:before {
+    content: "\f261";
+}
+.picon.Computers-and-Tech-apple_lightning_connect:before {
+    content: "\f262";
+}
+.picon.Computers-and-Tech-apple_lightning_connect:before {
+    content: "\f263";
+}
+.picon.Network-and-Servers-wi-fi_wlan_connect_internet:before {
+    content: "\f264";
+}
+.picon.Network-and-Servers-wi-fi_wlan_connect_internet:before {
+    content: "\f265";
+}
+.picon.Network-and-Servers-wi-fi_wlan_router:before {
+    content: "\f266";
+}
+.picon.Network-and-Servers-database:before {
+    content: "\f267";
+}
+.picon.Network-and-Servers-database_remote:before {
+    content: "\f268";
+}
+.picon.Network-and-Servers-database_raid:before {
+    content: "\f269";
+}
+.picon.Network-and-Servers-server_hosting:before {
+    content: "\f26a";
+}
+.picon.Network-and-Servers-network_connection_lan_computers:before {
+    content: "\f26b";
+}
+.picon.Network-and-Servers-network_lan_drives_backup_remote:before {
+    content: "\f26c";
+}
+.picon.Network-and-Servers-network_remote_folder_drive:before {
+    content: "\f26d";
+}
+.picon.Network-and-Servers-network_connection_computer_folder:before {
+    content: "\f26e";
+}
+.picon.Network-and-Servers-network_connection_computers:before {
+    content: "\f26f";
+}
+.picon.Network-and-Servers-network_connection_computers:before {
+    content: "\f270";
+}
+.picon.Network-and-Servers-satellite_connection:before {
+    content: "\f271";
+}
+.picon.Network-and-Servers-satellite_connection:before {
+    content: "\f272";
+}
+.picon.Network-and-Servers-home_wi_fi_wireless_network:before {
+    content: "\f273";
+}
+.picon.Network-and-Servers-wi-fi_wlan_connect_internet_signal_antenna:before {
+    content: "\f274";
+}
+.picon.Network-and-Servers-wi-fi_wlan_connect_internet_signal_antenna:before {
+    content: "\f275";
+}
+.picon.Network-and-Servers-bluetooth:before {
+    content: "\f276";
+}
+.picon.Network-and-Servers-connection_wireless:before {
+    content: "\f277";
+}
+.picon.Network-and-Servers-connection_world_internet_worldwide:before {
+    content: "\f278";
+}
+.picon.Network-and-Servers-connection_world_internet_worldwide:before {
+    content: "\f279";
+}
+.picon.Business-and-Analytics-screen_analytics_line_graph:before {
+    content: "\f27a";
+}
+.picon.Business-and-Analytics-screen_analytics_line_graph_growth:before {
+    content: "\f27b";
+}
+.picon.Business-and-Analytics-screen_analytics_pie_graph:before {
+    content: "\f27c";
+}
+.picon.Business-and-Analytics-analytics_presentation_statistics_graph:before {
+    content: "\f27d";
+}
+.picon.Business-and-Analytics-business_suitcase:before {
+    content: "\f27e";
+}
+.picon.Business-and-Analytics-line_structure_hierarchy:before {
+    content: "\f27f";
+}
+.picon.Business-and-Analytics-line_structure_relations_hierarchy:before {
+    content: "\f280";
+}
+.picon.Business-and-Analytics-graph_columns_statistics:before {
+    content: "\f281";
+}
+.picon.Business-and-Analytics-graph_columns_growth_statistics:before {
+    content: "\f282";
+}
+.picon.Business-and-Analytics-graph_columns_drop_statistics:before {
+    content: "\f283";
+}
+.picon.Business-and-Analytics-graph_pie_chart_statistics:before {
+    content: "\f284";
+}
+.picon.Business-and-Analytics-graph_line_chart_statistics:before {
+    content: "\f285";
+}
+.picon.Business-and-Analytics-tie_business_man:before {
+    content: "\f286";
+}
+.picon.Business-and-Analytics-government_white_house_capitol:before {
+    content: "\f287";
+}
+.picon.Business-and-Analytics-gavel_hammer_law_judge_court:before {
+    content: "\f288";
+}
+.picon.Business-and-Analytics-scale_justice_law_attorney:before {
+    content: "\f289";
+}
+.picon.Business-and-Analytics-scale_justice_law_attorney:before {
+    content: "\f28a";
+}
+.picon.Business-and-Analytics-business_idea:before {
+    content: "\f28b";
+}
+.picon.Business-and-Analytics-hand_papers_payment:before {
+    content: "\f28c";
+}
+.picon.Business-and-Analytics-business_handshake_deal_contract_sign:before {
+    content: "\f28d";
+}
+.picon.Business-and-Analytics-analytics_graph_line_statistics:before {
+    content: "\f28e";
+}
+.picon.Business-and-Analytics-analytics_graph_line_statistics_stock:before {
+    content: "\f28f";
+}
+.picon.Business-and-Analytics-analytics_graph_line_statistics_presentation_keynote:before {
+    content: "\f290";
+}
+.picon.Business-and-Analytics-presentation_powerpoint_keynote_meeting:before {
+    content: "\f291";
+}
+.picon.Business-and-Analytics-meeting_presentation_speech_speaker_keynote:before {
+    content: "\f292";
+}
+.picon.Business-and-Analytics-analytics_graph_line_statistics_stock:before {
+    content: "\f293";
+}
+.picon.Business-and-Analytics-graph_growth_money_stock_inflation:before {
+    content: "\f294";
+}
+.picon.Business-and-Analytics-stock_money_growth_inflation:before {
+    content: "\f295";
+}
+.picon.Money-and-Finance-money_usa_dollar:before {
+    content: "\f296";
+}
+.picon.Money-and-Finance-money_europe_euro:before {
+    content: "\f297";
+}
+.picon.Money-and-Finance-money_bag_dollar:before {
+    content: "\f298";
+}
+.picon.Money-and-Finance-money_dollar_euro_currency_exchange_cash:before {
+    content: "\f299";
+}
+.picon.Money-and-Finance-credit_card:before {
+    content: "\f29a";
+}
+.picon.Money-and-Finance-wallet_money_payment:before {
+    content: "\f29b";
+}
+.picon.Money-and-Finance-wallet_credit_card_money_payment:before {
+    content: "\f29c";
+}
+.picon.Money-and-Finance-cash_register_payment:before {
+    content: "\f29d";
+}
+.picon.Money-and-Finance-invoice_dollar_bill_payment:before {
+    content: "\f29e";
+}
+.picon.Money-and-Finance-free:before {
+    content: "\f29f";
+}
+.picon.Money-and-Finance-money_coins_jettons_chips:before {
+    content: "\f2a0";
+}
+.picon.Money-and-Finance-money_cash_coins_payment:before {
+    content: "\f2a1";
+}
+.picon.Money-and-Finance-saving_sale_discount_piggy_bank_pig:before {
+    content: "\f2a2";
+}
+.picon.Money-and-Finance-calculator:before {
+    content: "\f2a3";
+}
+.picon.Money-and-Finance-calculator:before {
+    content: "\f2a4";
+}
+.picon.Money-and-Finance-bank_pantheon:before {
+    content: "\f2a5";
+}
+.picon.Money-and-Finance-payment_mobile_nfc_apple_pay_cashless:before {
+    content: "\f2a6";
+}
+.picon.Money-and-Finance-money_cash_coins_payment_dollars:before {
+    content: "\f2a7";
+}
+.picon.Money-and-Finance-money_credit_card_coins_payment:before {
+    content: "\f2a8";
+}
+.picon.Money-and-Finance-no_cash_payment_cashless:before {
+    content: "\f2a9";
+}
+.picon.Money-and-Finance-coin_payment_chip:before {
+    content: "\f2aa";
+}
+.picon.Money-and-Finance-money_payment_dollar_cash:before {
+    content: "\f2ab";
+}
+.picon.Money-and-Finance-money_payment_dollar_cash:before {
+    content: "\f2ac";
+}
+.picon.Money-and-Finance-money_payment_dollars_coins_cash:before {
+    content: "\f2ad";
+}
+.picon.Money-and-Finance-money_payment_dollar_coins_chips:before {
+    content: "\f2ae";
+}
+.picon.Money-and-Finance-money_payment_dollar_bag_cash:before {
+    content: "\f2af";
+}
+.picon.Money-and-Finance-money_payment_euro_bag_cash:before {
+    content: "\f2b0";
+}
+.picon.Money-and-Finance-money_payment_dollar_coins_cash:before {
+    content: "\f2b1";
+}
+.picon.Money-and-Finance-money_atm_machine_withdrawal_cash:before {
+    content: "\f2b2";
+}
+.picon.Money-and-Finance-atm_machine_withdrawal_credit_card:before {
+    content: "\f2b3";
+}
+.picon.Money-and-Finance-money_currency_exchange:before {
+    content: "\f2b4";
+}
+.picon.Money-and-Finance-gold_reserve:before {
+    content: "\f2b5";
+}
+.picon.Money-and-Finance-bitcoin_money:before {
+    content: "\f2b6";
+}
+.picon.Money-and-Finance-bitcoin_wallet_payment:before {
+    content: "\f2b7";
+}
+.picon.Money-and-Finance-thin-0436a_pound_britain_currency_money:before {
+    content: "\f2b8";
+}
+.picon.Money-and-Finance-thin-0436b_pound_britain_currency_money:before {
+    content: "\f2b9";
+}
+.picon.Shopping-and-Delivery-tag_price_sale:before {
+    content: "\f2ba";
+}
+.picon.Shopping-and-Delivery-tag_price_sale_discount:before {
+    content: "\f2bb";
+}
+.picon.Shopping-and-Delivery-shopping_cart_basket_store:before {
+    content: "\f2bc";
+}
+.picon.Shopping-and-Delivery-shopping_cart_basket_store:before {
+    content: "\f2bd";
+}
+.picon.Shopping-and-Delivery-full_shopping_cart_basket_store:before {
+    content: "\f2be";
+}
+.picon.Shopping-and-Delivery-shopping_cart_basket_store:before {
+    content: "\f2bf";
+}
+.picon.Shopping-and-Delivery-shopping_cart_basket_store:before {
+    content: "\f2c0";
+}
+.picon.Shopping-and-Delivery-price_discount_sale_coupon:before {
+    content: "\f2c1";
+}
+.picon.Shopping-and-Delivery-store_shop_shopping:before {
+    content: "\f2c2";
+}
+.picon.Shopping-and-Delivery-store_shop_shopping:before {
+    content: "\f2c3";
+}
+.picon.Shopping-and-Delivery-gift_wrapping:before {
+    content: "\f2c4";
+}
+.picon.Shopping-and-Delivery-shipping_box_delivery:before {
+    content: "\f2c5";
+}
+.picon.Shopping-and-Delivery-fragile_shipping_box_delivery:before {
+    content: "\f2c6";
+}
+.picon.Shopping-and-Delivery-shipping_box_delivery:before {
+    content: "\f2c7";
+}
+.picon.Shopping-and-Delivery-shipping_box_delivery:before {
+    content: "\f2c8";
+}
+.picon.Shopping-and-Delivery-archive_shipping_box_delivery:before {
+    content: "\f2c9";
+}
+.picon.Shopping-and-Delivery-shopping_bag_sale_store:before {
+    content: "\f2ca";
+}
+.picon.Shopping-and-Delivery-shopping_bag_sale_store:before {
+    content: "\f2cb";
+}
+.picon.Shopping-and-Delivery-delivery_van_shipping:before {
+    content: "\f2cc";
+}
+.picon.Shopping-and-Delivery-fragile_delivery_shipping:before {
+    content: "\f2cd";
+}
+.picon.Shopping-and-Delivery-store_shop_open:before {
+    content: "\f2ce";
+}
+.picon.Shopping-and-Delivery-store_shop_closed:before {
+    content: "\f2cf";
+}
+.picon.Shopping-and-Delivery-store_shop_open_nonstop:before {
+    content: "\f2d0";
+}
+.picon.Shopping-and-Delivery-new:before {
+    content: "\f2d1";
+}
+.picon.Shopping-and-Delivery-delivery_van_shipping_transport:before {
+    content: "\f2d2";
+}
+.picon.Shopping-and-Delivery-fast_delivery_van_shipping_transport:before {
+    content: "\f2d3";
+}
+.picon.Shopping-and-Delivery-fast_delivery_van_shipping_transport:before {
+    content: "\f2d4";
+}
+.picon.Shopping-and-Delivery-shipping_box_delivery:before {
+    content: "\f2d5";
+}
+.picon.Shopping-and-Delivery-shopping_cart_basket_store:before {
+    content: "\f2d6";
+}
+.picon.Shopping-and-Delivery-shopping_cart_basket_store_successful:before {
+    content: "\f2d7";
+}
+.picon.Transportation-traffic_lights_transport:before {
+    content: "\f2d8";
+}
+.picon.Transportation-car_transport_vehicle:before {
+    content: "\f2d9";
+}
+.picon.Transportation-van_truck_transport_vehicle:before {
+    content: "\f2da";
+}
+.picon.Transportation-bus_transport:before {
+    content: "\f2db";
+}
+.picon.Transportation-train_metro_transport:before {
+    content: "\f2dc";
+}
+.picon.Transportation-road_trafic:before {
+    content: "\f2dd";
+}
+.picon.Transportation-ship_naval_sea_marine_transport:before {
+    content: "\f2de";
+}
+.picon.Transportation-anchor_ship_sea_naval:before {
+    content: "\f2df";
+}
+.picon.Transportation-bike_bycicle_transport:before {
+    content: "\f2e0";
+}
+.picon.Transportation-chain_link_bike_bycicle:before {
+    content: "\f2e1";
+}
+.picon.Transportation-steering_wheel_car_navigation_driving:before {
+    content: "\f2e2";
+}
+.picon.Transportation-plane_air:before {
+    content: "\f2e3";
+}
+.picon.Transportation-rocket_space_nasa:before {
+    content: "\f2e4";
+}
+.picon.Transportation-gas_fuel_station:before {
+    content: "\f2e5";
+}
+.picon.Transportation-corn_traffic_jam_road_sign:before {
+    content: "\f2e6";
+}
+.picon.Transportation-gauge_dashboard_empty:before {
+    content: "\f2e7";
+}
+.picon.Transportation-gauge_dashboard_half:before {
+    content: "\f2e8";
+}
+.picon.Transportation-gauge_dashboard_full_fuel:before {
+    content: "\f2e9";
+}
+.picon.Transportation-gauge_dashboard_speedometer_odometer_speed:before {
+    content: "\f2ea";
+}
+.picon.Transportation-gauge_car_dashboard_speedometer_odometer_speed:before {
+    content: "\f2eb";
+}
+.picon.Transportation-van_truck_transport_vehicle:before {
+    content: "\f2ec";
+}
+.picon.Transportation-van_truck_transport_vehicle:before {
+    content: "\f2ed";
+}
+.picon.Transportation-storehouse_storage:before {
+    content: "\f2ee";
+}
+.picon.Transportation-shipping_cart_box_delivery:before {
+    content: "\f2ef";
+}
+.picon.Transportation-box_shipping_modules:before {
+    content: "\f2f0";
+}
+.picon.Transportation-car_wash:before {
+    content: "\f2f1";
+}
+.picon.Transportation-car_wash:before {
+    content: "\f2f2";
+}
+.picon.Transportation-4x4_offroad_car_jeep_safari:before {
+    content: "\f2f3";
+}
+.picon.Transportation-car_garage:before {
+    content: "\f2f4";
+}
+.picon.Transportation-car_garage_house_home:before {
+    content: "\f2f5";
+}
+.picon.Transportation-car_machine_piston_cylinder:before {
+    content: "\f2f6";
+}
+.picon.Transportation-car_battery_electricity:before {
+    content: "\f2f7";
+}
+.picon.Transportation-car_machine_check:before {
+    content: "\f2f8";
+}
+.picon.Transportation-car_machine_cooling_water_temperature:before {
+    content: "\f2f9";
+}
+.picon.Transportation-car_machine_oil_presure_level_check:before {
+    content: "\f2fa";
+}
+.picon.Transportation-car_brakes_check_safety_danger:before {
+    content: "\f2fb";
+}
+.picon.Transportation-car_windshield_water:before {
+    content: "\f2fc";
+}
+.picon.Transportation-car_turn_sign_right_left:before {
+    content: "\f2fd";
+}
+.picon.Transportation-car_manual_gearbox:before {
+    content: "\f2fe";
+}
+.picon.Transportation-machine_motor_engine:before {
+    content: "\f2ff";
+}
+.picon.Transportation-gauge_dashboard:before {
+    content: "\f300";
+}
+.picon.Transportation-car_repair_service_lift:before {
+    content: "\f301";
+}
+.picon.Transportation-car_wheel_tyre:before {
+    content: "\f302";
+}
+.picon.Travel-and-Places-suitcase_travel_baggage_luggage:before {
+    content: "\f303";
+}
+.picon.Travel-and-Places-suitcase_travel_baggage_luggage:before {
+    content: "\f304";
+}
+.picon.Travel-and-Places-tag_flight_baggage_luggage:before {
+    content: "\f305";
+}
+.picon.Travel-and-Places-globus_world_travel_regional:before {
+    content: "\f306";
+}
+.picon.Travel-and-Places-passport_travel:before {
+    content: "\f307";
+}
+.picon.Travel-and-Places-suitcase_tag_travel_baggage_luggage:before {
+    content: "\f308";
+}
+.picon.Travel-and-Places-flight_airport_transport_travel:before {
+    content: "\f309";
+}
+.picon.Travel-and-Places-car_travel_road_trip:before {
+    content: "\f30a";
+}
+.picon.Travel-and-Places-camping_caravan_car_motorhome_travel:before {
+    content: "\f30b";
+}
+.picon.Travel-and-Places-4x4_offroad_jeep_mountains_tour_safari:before {
+    content: "\f30c";
+}
+.picon.Travel-and-Places-paris_city_travel_honeymoon_love_romantic:before {
+    content: "\f30d";
+}
+.picon.Travel-and-Places-san_francisco_california_bridge_golden_gate:before {
+    content: "\f30e";
+}
+.picon.Travel-and-Places-rome_italy_colosseum:before {
+    content: "\f30f";
+}
+.picon.Travel-and-Places-rio_de_jeneiro_brasil_jesus:before {
+    content: "\f310";
+}
+.picon.Travel-and-Places-pisa_italy_leaning_tower:before {
+    content: "\f311";
+}
+.picon.Travel-and-Places-petronal_tower_malaysia:before {
+    content: "\f312";
+}
+.picon.Travel-and-Places-dubai_hotel_burj_al_arab:before {
+    content: "\f313";
+}
+.picon.Travel-and-Places-berlin_brandenburger_tor_germany:before {
+    content: "\f314";
+}
+.picon.Travel-and-Places-syndey_opera_australia:before {
+    content: "\f315";
+}
+.picon.Travel-and-Places-ancient_egypt_pyramid:before {
+    content: "\f316";
+}
+.picon.Travel-and-Places-netherlands_wind_mill:before {
+    content: "\f317";
+}
+.picon.Travel-and-Places-lighthouse_shore_coast_sea:before {
+    content: "\f318";
+}
+.picon.Travel-and-Places-castle:before {
+    content: "\f319";
+}
+.picon.Travel-and-Places-cementary:before {
+    content: "\f31a";
+}
+.picon.Travel-and-Places-favorite_place_map:before {
+    content: "\f31b";
+}
+.picon.Travel-and-Places-baggage_luggage_hotel:before {
+    content: "\f31c";
+}
+.picon.Travel-and-Places-park_tree:before {
+    content: "\f31d";
+}
+.picon.Travel-and-Places-baloon_hot_air:before {
+    content: "\f31e";
+}
+.picon.Travel-and-Places-vespa_scooter_motorbike:before {
+    content: "\f31f";
+}
+.picon.Maps-and-Navigation-navigation_location_drop_pin_map:before {
+    content: "\f320";
+}
+.picon.Maps-and-Navigation-navigation_location_drop_pin_map:before {
+    content: "\f321";
+}
+.picon.Maps-and-Navigation-navigation_location_drop_pin_map:before {
+    content: "\f322";
+}
+.picon.Maps-and-Navigation-navigation_compass_orientation:before {
+    content: "\f323";
+}
+.picon.Maps-and-Navigation-map_path_navigation_location:before {
+    content: "\f324";
+}
+.picon.Maps-and-Navigation-map_path_navigation_location_treasure_hunt:before {
+    content: "\f325";
+}
+.picon.Maps-and-Navigation-path_way_road_sign:before {
+    content: "\f326";
+}
+.picon.Maps-and-Navigation-path_way_road_sign:before {
+    content: "\f327";
+}
+.picon.Maps-and-Navigation-world_earth_worldwide_location_travel:before {
+    content: "\f328";
+}
+.picon.Maps-and-Navigation-world_earth_worldwide_international_language:before {
+    content: "\f329";
+}
+.picon.Maps-and-Navigation-map_travel_distance_directions:before {
+    content: "\f32a";
+}
+.picon.Maps-and-Navigation-map_travel_destination_location_world:before {
+    content: "\f32b";
+}
+.picon.Maps-and-Navigation-path_travel_road:before {
+    content: "\f32c";
+}
+.picon.Building-signs-dont_touch_dangerous_stop_caution:before {
+    content: "\f32d";
+}
+.picon.Building-signs-dont_touch_dangerous_stop_caution:before {
+    content: "\f32e";
+}
+.picon.Building-signs-attention_error_alert_caution:before {
+    content: "\f32f";
+}
+.picon.Building-signs-information_about:before {
+    content: "\f330";
+}
+.picon.Building-signs-about_question_faq_help:before {
+    content: "\f331";
+}
+.picon.Building-signs-radioactive_nuclear_danger_atom:before {
+    content: "\f332";
+}
+.picon.Building-signs-fire_danger_hot_flammable:before {
+    content: "\f333";
+}
+.picon.Building-signs-fire_extinguisher:before {
+    content: "\f334";
+}
+.picon.Building-signs-poison_danger_death_caution:before {
+    content: "\f335";
+}
+.picon.Building-signs-men_women_toilet_wc_restroom:before {
+    content: "\f336";
+}
+.picon.Building-signs-men_women_toilet_wc_restroom:before {
+    content: "\f337";
+}
+.picon.Building-signs-smoking_allowed_cigarettes:before {
+    content: "\f338";
+}
+.picon.Building-signs-smoking_forbidden_cigarettes:before {
+    content: "\f339";
+}
+.picon.Building-signs-guns_arms_forbidden:before {
+    content: "\f33a";
+}
+.picon.Building-signs-dogs_pets_forbidden:before {
+    content: "\f33b";
+}
+.picon.Building-signs-handicapped:before {
+    content: "\f33c";
+}
+.picon.Building-signs-flight_departure_airport_airplane:before {
+    content: "\f33d";
+}
+.picon.Building-signs-flight_arrival_airport_airplane:before {
+    content: "\f33e";
+}
+.picon.Building-signs-trash_bin_garbage:before {
+    content: "\f33f";
+}
+.picon.Building-signs-elevator_up_down:before {
+    content: "\f340";
+}
+.picon.Building-signs-steps_upstairs:before {
+    content: "\f341";
+}
+.picon.Building-signs-steps_downstairs:before {
+    content: "\f342";
+}
+.picon.Building-signs-rolling_stairs_up:before {
+    content: "\f343";
+}
+.picon.Building-signs-rolling_stairs_down:before {
+    content: "\f344";
+}
+.picon.Building-signs-down:before {
+    content: "\f345";
+}
+.picon.Building-signs-up:before {
+    content: "\f346";
+}
+.picon.Building-signs-out_exit_emergency_logout:before {
+    content: "\f347";
+}
+.picon.Building-signs-out_exit_emergency_logout:before {
+    content: "\f348";
+}
+.picon.Building-signs-door_exit_emergency_logout:before {
+    content: "\f349";
+}
+.picon.Building-signs-information_desk_support_help:before {
+    content: "\f34a";
+}
+.picon.Building-signs-information_office_desk_support_help:before {
+    content: "\f34b";
+}
+.picon.Building-signs-speech_presentation:before {
+    content: "\f34c";
+}
+.picon.Building-signs-changing_diapers_baby:before {
+    content: "\f34d";
+}
+.picon.Building-signs-take_ticket_vote_box:before {
+    content: "\f34e";
+}
+.picon.Building-signs-take_ticket_waiting_room:before {
+    content: "\f34f";
+}
+.picon.Building-signs-take_ticket:before {
+    content: "\f350";
+}
+.picon.Movie-and-Video-movie_film_cinema:before {
+    content: "\f351";
+}
+.picon.Movie-and-Video-hd_movie_video_camera_recording:before {
+    content: "\f352";
+}
+.picon.Movie-and-Video-movie_video_camera_recording:before {
+    content: "\f353";
+}
+.picon.Movie-and-Video-movie_video_cinema_flm:before {
+    content: "\f354";
+}
+.picon.Movie-and-Video-play_movie_video_cinema_flm:before {
+    content: "\f355";
+}
+.picon.Movie-and-Video-ticket_movie_cinema:before {
+    content: "\f356";
+}
+.picon.Movie-and-Video-movie_recording_play_director_cut:before {
+    content: "\f357";
+}
+.picon.Movie-and-Video-presentation_video_play_beamer:before {
+    content: "\f358";
+}
+.picon.Movie-and-Video-tv_televison_movie_news:before {
+    content: "\f359";
+}
+.picon.Movie-and-Video-video_play_youtube:before {
+    content: "\f35a";
+}
+.picon.Movie-and-Video-beamer_presentation_projector:before {
+    content: "\f35b";
+}
+.picon.Sound-and-Music-music_note_playing_sound_song:before {
+    content: "\f35c";
+}
+.picon.Sound-and-Music-music_note_playing_sound_song:before {
+    content: "\f35d";
+}
+.picon.Sound-and-Music-playlist_music_note_playing_sound_song:before {
+    content: "\f35e";
+}
+.picon.Sound-and-Music-music_ipod_playing_player_playlist:before {
+    content: "\f35f";
+}
+.picon.Sound-and-Music-ipod_music_playing_song:before {
+    content: "\f360";
+}
+.picon.Sound-and-Music-music_playing_song_album:before {
+    content: "\f361";
+}
+.picon.Sound-and-Music-music_cloud_song_streaming:before {
+    content: "\f362";
+}
+.picon.Sound-and-Music-casette_music_song_radio:before {
+    content: "\f363";
+}
+.picon.Sound-and-Music-dj_music_disc_disco:before {
+    content: "\f364";
+}
+.picon.Sound-and-Music-radio_song_listening:before {
+    content: "\f365";
+}
+.picon.Sound-and-Music-ringer_alarm_sound:before {
+    content: "\f366";
+}
+.picon.Sound-and-Music-ringer_alarm_sound_silent_mute:before {
+    content: "\f367";
+}
+.picon.Sound-and-Music-ringer_sound_speaker_laud:before {
+    content: "\f368";
+}
+.picon.Sound-and-Music-ringer_sound_speaker_laud:before {
+    content: "\f369";
+}
+.picon.Sound-and-Music-ringer_sound_speaker_laud:before {
+    content: "\f36a";
+}
+.picon.Sound-and-Music-ringer_sound_speaker_mute_silent:before {
+    content: "\f36b";
+}
+.picon.Sound-and-Music-microphone_mic_voice_recording:before {
+    content: "\f36c";
+}
+.picon.Sound-and-Music-microphone_mic_voice_recording:before {
+    content: "\f36d";
+}
+.picon.Sound-and-Music-voice_laud_announcement_news:before {
+    content: "\f36e";
+}
+.picon.Sound-and-Music-speaker_music_sound_playing:before {
+    content: "\f36f";
+}
+.picon.Sound-and-Music-ringer_silent_sleeping:before {
+    content: "\f370";
+}
+.picon.Sound-and-Music-headphones_headset_speaker_beats:before {
+    content: "\f371";
+}
+.picon.Photography-picture_image_photo:before {
+    content: "\f372";
+}
+.picon.Photography-album_picture_image_photo:before {
+    content: "\f373";
+}
+.picon.Photography-album_picture_image_photo:before {
+    content: "\f374";
+}
+.picon.Photography-picture_image_photo_desk:before {
+    content: "\f375";
+}
+.picon.Photography-polaroid_picture_image_photo:before {
+    content: "\f376";
+}
+.picon.Photography-wall_picture_image_photo:before {
+    content: "\f377";
+}
+.picon.Photography-not_available_broken_missing_picture_image_photo:before {
+    content: "\f378";
+}
+.picon.Photography-photo_camera:before {
+    content: "\f379";
+}
+.picon.Photography-photo_camera:before {
+    content: "\f37a";
+}
+.picon.Photography-photo_camera_upload_computer:before {
+    content: "\f37b";
+}
+.picon.Photography-photo_camera_portrait:before {
+    content: "\f37c";
+}
+.picon.Photography-photo_camera_landscape:before {
+    content: "\f37d";
+}
+.picon.Photography-photo_camera_tripod_stand:before {
+    content: "\f37e";
+}
+.picon.Photography-photo_wall_frame:before {
+    content: "\f37f";
+}
+.picon.Photography-camera_setting_close_up_macro:before {
+    content: "\f380";
+}
+.picon.Security-security_lock:before {
+    content: "\f381";
+}
+.picon.Security-security_lock_unlocked:before {
+    content: "\f382";
+}
+.picon.Security-security_lock_key:before {
+    content: "\f383";
+}
+.picon.Security-anti_virus_protection_shield:before {
+    content: "\f384";
+}
+.picon.Security-software_bug_code_vulnerability:before {
+    content: "\f385";
+}
+.picon.Security-fingerprint_scan_security_access:before {
+    content: "\f386";
+}
+.picon.Security-network_firewall:before {
+    content: "\f387";
+}
+.picon.Security-safe_security_lock:before {
+    content: "\f388";
+}
+.picon.Security-security_lock_protected:before {
+    content: "\f389";
+}
+.picon.Security-police_protection_sheriff_security_badge:before {
+    content: "\f38a";
+}
+.picon.Security-camera_video_surveillacance_security:before {
+    content: "\f38b";
+}
+.picon.Security-camera_video_surveillacance_security:before {
+    content: "\f38c";
+}
+.picon.Security-suitcase_lock_security:before {
+    content: "\f38d";
+}
+.picon.Security-atm_passcode_keypad_password_access:before {
+    content: "\f38e";
+}
+.picon.Security-secret_passcode_keypad_password_access:before {
+    content: "\f38f";
+}
+.picon.Security-fingerprint_iphone_scan_access:before {
+    content: "\f390";
+}
+.picon.Security-secret_passcode_keypad_password_access:before {
+    content: "\f391";
+}
+.picon.Security-secret_passcode_keypad_password_access:before {
+    content: "\f392";
+}
+.picon.Security-gun_security_arms_police:before {
+    content: "\f393";
+}
+.picon.Voting-and-Awards-star_favorite_rating:before {
+    content: "\f394";
+}
+.picon.Voting-and-Awards-star_favorite_rating:before {
+    content: "\f395";
+}
+.picon.Voting-and-Awards-like_heart_favorite_rating_love:before {
+    content: "\f396";
+}
+.picon.Voting-and-Awards-unlike_heart_broken_break_love:before {
+    content: "\f397";
+}
+.picon.Voting-and-Awards-like_heart_favorite_rating_love:before {
+    content: "\f398";
+}
+.picon.Voting-and-Awards-medal_award_rating_prize_achievement:before {
+    content: "\f399";
+}
+.picon.Voting-and-Awards-medal_award_rating_prize_achievement:before {
+    content: "\f39a";
+}
+.picon.Voting-and-Awards-cup_place_winner_award_prize_achievement:before {
+    content: "\f39b";
+}
+.picon.Voting-and-Awards-medal_first_place_winner_award_prize_achievement:before {
+    content: "\f39c";
+}
+.picon.Voting-and-Awards-shape_new_discount:before {
+    content: "\f39d";
+}
+.picon.Voting-and-Awards-like_thumb_up_vote:before {
+    content: "\f39e";
+}
+.picon.Voting-and-Awards-dislike_thumb_down_vote:before {
+    content: "\f39f";
+}
+.picon.Voting-and-Awards-like_thumb_up_vote:before {
+    content: "\f3a0";
+}
+.picon.Voting-and-Awards-dislike_thumb_down_vote:before {
+    content: "\f3a1";
+}
+.picon.Voting-and-Awards-vote_ticket_paper_voting:before {
+    content: "\f3a2";
+}
+.picon.Voting-and-Awards-award_achievement_prize_medal:before {
+    content: "\f3a3";
+}
+.picon.Voting-and-Awards-star_rating_favorite_point:before {
+    content: "\f3a4";
+}
+.picon.Voting-and-Awards-up_vote_plus_higher:before {
+    content: "\f3a5";
+}
+.picon.Voting-and-Awards-down_vote_minus_lower:before {
+    content: "\f3a6";
+}
+.picon.Voting-and-Awards-diamond_prize_award_jewellery_ring:before {
+    content: "\f3a7";
+}
+.picon.Design-and-Drawing-vector_bezier_curve_illustrator:before {
+    content: "\f3a8";
+}
+.picon.Design-and-Drawing-crop_image:before {
+    content: "\f3a9";
+}
+.picon.Design-and-Drawing-ruller_dimension_length:before {
+    content: "\f3aa";
+}
+.picon.Design-and-Drawing-cut_scissors:before {
+    content: "\f3ab";
+}
+.picon.Design-and-Drawing-paint_brush_color:before {
+    content: "\f3ac";
+}
+.picon.Design-and-Drawing-eyedropper_color:before {
+    content: "\f3ad";
+}
+.picon.Design-and-Drawing-color_wheel_rgb:before {
+    content: "\f3ae";
+}
+.picon.Design-and-Drawing-pen_writting_fontain:before {
+    content: "\f3af";
+}
+.picon.Design-and-Drawing-paint_brush:before {
+    content: "\f3b0";
+}
+.picon.Design-and-Drawing-pencil_ruller_drawing:before {
+    content: "\f3b1";
+}
+.picon.Design-and-Drawing-drawing_board_canvas_table:before {
+    content: "\f3b2";
+}
+.picon.Design-and-Drawing-pencil:before {
+    content: "\f3b3";
+}
+.picon.Design-and-Drawing-pen:before {
+    content: "\f3b4";
+}
+.picon.Design-and-Drawing-paint_brush:before {
+    content: "\f3b5";
+}
+.picon.Design-and-Drawing-marker_text:before {
+    content: "\f3b6";
+}
+.picon.Design-and-Drawing-cut_knife:before {
+    content: "\f3b7";
+}
+.picon.Design-and-Drawing-pantone_color_guide_samples_book:before {
+    content: "\f3b8";
+}
+.picon.Design-and-Drawing-paint_bucket_color:before {
+    content: "\f3b9";
+}
+.picon.Design-and-Drawing-paint_bucket_color:before {
+    content: "\f3ba";
+}
+.picon.Design-and-Drawing-spray_color:before {
+    content: "\f3bb";
+}
+.picon.Design-and-Drawing-wall_paint_color:before {
+    content: "\f3bc";
+}
+.picon.Design-and-Drawing-paper_layers:before {
+    content: "\f3bd";
+}
+.picon.Design-and-Drawing-reflect_vertical:before {
+    content: "\f3be";
+}
+.picon.Design-and-Drawing-reflect_horizontal:before {
+    content: "\f3bf";
+}
+.picon.Design-and-Drawing-pathfinder_shapes_minus_back:before {
+    content: "\f3c0";
+}
+.picon.Design-and-Drawing-pathfinder_shapes_unite:before {
+    content: "\f3c1";
+}
+.picon.Design-and-Drawing-pathfinder_shapes_exclude:before {
+    content: "\f3c2";
+}
+.picon.Design-and-Drawing-pathfinder_shapes_intersect:before {
+    content: "\f3c3";
+}
+.picon.Users-and-People-user_profile_avatar_man_male:before {
+    content: "\f3c4";
+}
+.picon.Users-and-People-user_profile_avatar_woman_female:before {
+    content: "\f3c5";
+}
+.picon.Users-and-People-user_profile_avatar_man_male:before {
+    content: "\f3c6";
+}
+.picon.Users-and-People-user_profile_avatar_woman_female:before {
+    content: "\f3c7";
+}
+.picon.Users-and-People-users_profile_group_two:before {
+    content: "\f3c8";
+}
+.picon.Users-and-People-users_profile_group_couple_man_woman:before {
+    content: "\f3c9";
+}
+.picon.Users-and-People-user_profile_security_password_permissions:before {
+    content: "\f3ca";
+}
+.picon.Users-and-People-user_profile_add_new:before {
+    content: "\f3cb";
+}
+.picon.Users-and-People-user_profile_remove_delete:before {
+    content: "\f3cc";
+}
+.picon.Users-and-People-user_profile:before {
+    content: "\f3cd";
+}
+.picon.Users-and-People-user_profile_avatar_man_male:before {
+    content: "\f3ce";
+}
+.picon.Users-and-People-business_tie_user_profile_avatar_man_male:before {
+    content: "\f3cf";
+}
+.picon.Users-and-People-young_boy_user_profile_avatar_man_male:before {
+    content: "\f3d0";
+}
+.picon.Users-and-People-user_profile_avatar_girl_woman_female:before {
+    content: "\f3d1";
+}
+.picon.Users-and-People-user_profile_back_tag:before {
+    content: "\f3d2";
+}
+.picon.Users-and-People-identity_card_photo_user_profile:before {
+    content: "\f3d3";
+}
+.picon.Users-and-People-contact_archive_identity_card_photo_user_profile:before {
+    content: "\f3d4";
+}
+.picon.Users-and-People-user_profile_add_new:before {
+    content: "\f3d5";
+}
+.picon.Users-and-People-user_profile_remove_delete:before {
+    content: "\f3d6";
+}
+.picon.Users-and-People-user_profile_successful_check_verified:before {
+    content: "\f3d7";
+}
+.picon.Users-and-People-group_users_circle:before {
+    content: "\f3d8";
+}
+.picon.Users-and-People-user_location_position:before {
+    content: "\f3d9";
+}
+.picon.Users-and-People-identity_card_photo_tag_user_profile:before {
+    content: "\f3da";
+}
+.picon.Users-and-People-profile_user_search_find:before {
+    content: "\f3db";
+}
+.picon.Users-and-People-nurse_medicine_hospital_doctor:before {
+    content: "\f3dc";
+}
+.picon.Users-and-People-policeman_security:before {
+    content: "\f3dd";
+}
+.picon.Users-and-People-fireman_fire:before {
+    content: "\f3de";
+}
+.picon.Users-and-People-doctor_surgery_hospital:before {
+    content: "\f3df";
+}
+.picon.Users-and-People-detective_criminal_sherlock_investigation:before {
+    content: "\f3e0";
+}
+.picon.Users-and-People-construction_worker_site_helmet_safety:before {
+    content: "\f3e1";
+}
+.picon.Users-and-People-student_degree_science_university_school_graduate:before {
+    content: "\f3e2";
+}
+.picon.Users-and-People-support_male_phone:before {
+    content: "\f3e3";
+}
+.picon.Users-and-People-support_female_phone:before {
+    content: "\f3e4";
+}
+.picon.Environment-and-Ecology-polution_ecology_factory:before {
+    content: "\f3e5";
+}
+.picon.Environment-and-Ecology-polution_ecology_factory:before {
+    content: "\f3e6";
+}
+.picon.Environment-and-Ecology-polution_oil:before {
+    content: "\f3e7";
+}
+.picon.Environment-and-Ecology-polution_oil_refinery:before {
+    content: "\f3e8";
+}
+.picon.Environment-and-Ecology-polution_co2_emissions:before {
+    content: "\f3e9";
+}
+.picon.Environment-and-Ecology-fuel_petrol_tank_reserve_car:before {
+    content: "\f3ea";
+}
+.picon.Environment-and-Ecology-polution_sea_water_dead_fish:before {
+    content: "\f3eb";
+}
+.picon.Environment-and-Ecology-electricity_high_voltage_landline:before {
+    content: "\f3ec";
+}
+.picon.Environment-and-Ecology-water_hydrant_fire:before {
+    content: "\f3ed";
+}
+.picon.Environment-and-Ecology-water_pipe_drink:before {
+    content: "\f3ee";
+}
+.picon.Environment-and-Ecology-wind_energy_power_turbines:before {
+    content: "\f3ef";
+}
+.picon.Environment-and-Ecology-sun_energy_power_electricity:before {
+    content: "\f3f0";
+}
+.picon.Environment-and-Ecology-sun_clouds_weather:before {
+    content: "\f3f1";
+}
+.picon.Environment-and-Ecology-home_energy_efficient_eco:before {
+    content: "\f3f2";
+}
+.picon.Environment-and-Ecology-home_energy_efficient_eco:before {
+    content: "\f3f3";
+}
+.picon.Environment-and-Ecology-home_energy_heating_cooling_aircondition:before {
+    content: "\f3f4";
+}
+.picon.Environment-and-Ecology-home_energy_heating_winter_fire:before {
+    content: "\f3f5";
+}
+.picon.Environment-and-Ecology-ecology_earth_polution_efficiency_green_energy:before {
+    content: "\f3f6";
+}
+.picon.Environment-and-Ecology-ecology_earth_clean_green_energy:before {
+    content: "\f3f7";
+}
+.picon.Environment-and-Ecology-rechargeable_batteries_recycling:before {
+    content: "\f3f8";
+}
+.picon.Environment-and-Ecology-ecology_car_clean_green_energy:before {
+    content: "\f3f9";
+}
+.picon.Environment-and-Ecology-electro_hybrid_tesla_ecology_car_clean_green_energy:before {
+    content: "\f3fa";
+}
+.picon.Environment-and-Ecology-electro_hybrid_tesla_ecology_car_clean_green_energy:before {
+    content: "\f3fb";
+}
+.picon.Environment-and-Ecology-ecology_environment_forest_tree_green_park:before {
+    content: "\f3fc";
+}
+.picon.Environment-and-Ecology-ecology_environment_forest_tree_green_park:before {
+    content: "\f3fd";
+}
+.picon.Environment-and-Ecology-ecology_environment_green:before {
+    content: "\f3fe";
+}
+.picon.Environment-and-Ecology-energy_efficiency_saving_light:before {
+    content: "\f3ff";
+}
+.picon.Environment-and-Ecology-energy_efficiency_saving_light:before {
+    content: "\f400";
+}
+.picon.Nature-weather_sun_summer:before {
+    content: "\f401";
+}
+.picon.Nature-weather_cloud:before {
+    content: "\f402";
+}
+.picon.Nature-weather_rain_cloud:before {
+    content: "\f403";
+}
+.picon.Nature-weather_moon_stars_night_sleep:before {
+    content: "\f404";
+}
+.picon.Nature-weather_rain_water_drop:before {
+    content: "\f405";
+}
+.picon.Nature-weather_rain_umbrella:before {
+    content: "\f406";
+}
+.picon.Nature-weather_snow_flake_winter:before {
+    content: "\f407";
+}
+.picon.Nature-weather_wind:before {
+    content: "\f408";
+}
+.picon.Nature-weather_tornado_typhoon_wind:before {
+    content: "\f409";
+}
+.picon.Nature-weather_cloud_sun:before {
+    content: "\f40a";
+}
+.picon.Nature-park_bench_rest_tree_forest:before {
+    content: "\f40b";
+}
+.picon.Nature-park_tree_forest:before {
+    content: "\f40c";
+}
+.picon.Nature-park_tree_forest:before {
+    content: "\f40d";
+}
+.picon.Nature-flower:before {
+    content: "\f40e";
+}
+.picon.Nature-maple_leaf_canada_tree:before {
+    content: "\f40f";
+}
+.picon.Nature-leaf_nature_bio_green:before {
+    content: "\f410";
+}
+.picon.Nature-camping_cooking_outside_fireplace:before {
+    content: "\f411";
+}
+.picon.Nature-camping_fire_fireplace:before {
+    content: "\f412";
+}
+.picon.Nature-fire_fireplace:before {
+    content: "\f413";
+}
+.picon.Nature-wood_ax:before {
+    content: "\f414";
+}
+.picon.Nature-camping_tent:before {
+    content: "\f415";
+}
+.picon.Nature-camping_director_fisherman_chair:before {
+    content: "\f416";
+}
+.picon.Nature-lighter_fire_zippo:before {
+    content: "\f417";
+}
+.picon.Nature-swiss_army_knife_camping:before {
+    content: "\f418";
+}
+.picon.Nature-army_knife_jungle:before {
+    content: "\f419";
+}
+.picon.Nature-mountains_nature:before {
+    content: "\f41a";
+}
+.picon.Nature-basecamp_alps_mountains_cabin:before {
+    content: "\f41b";
+}
+.picon.Nature-mountains_nature:before {
+    content: "\f41c";
+}
+.picon.Nature-gondola_lift_mountains:before {
+    content: "\f41d";
+}
+.picon.Nature-mountaineering:before {
+    content: "\f41e";
+}
+.picon.Nature-acorn_forest_fruit:before {
+    content: "\f41f";
+}
+.picon.Nature-mushroom_forest_fruit:before {
+    content: "\f420";
+}
+.picon.Nature-archery_bow:before {
+    content: "\f421";
+}
+.picon.Nature-archery_bow:before {
+    content: "\f422";
+}
+.picon.Nature-horseshoe_luck:before {
+    content: "\f423";
+}
+.picon.Nature-canoeing_rowing_wild_river:before {
+    content: "\f424";
+}
+.picon.Nature-nature_green_sprout_plant:before {
+    content: "\f425";
+}
+.picon.Nature-flowers_plant:before {
+    content: "\f426";
+}
+.picon.Nature-leaf_tree_forest:before {
+    content: "\f427";
+}
+.picon.Nature-leaf_tree_forest:before {
+    content: "\f428";
+}
+.picon.Nature-leaf_plant_sprout_green:before {
+    content: "\f429";
+}
+.picon.Nature-shovel_ground:before {
+    content: "\f42a";
+}
+.picon.Nature-plant_watering:before {
+    content: "\f42b";
+}
+.picon.Nature-wheelbarrow_farming:before {
+    content: "\f42c";
+}
+.picon.Nature-wheelbarrow_full:before {
+    content: "\f42d";
+}
+.picon.Nature-tractor_farming:before {
+    content: "\f42e";
+}
+.picon.Nature-gate_farm:before {
+    content: "\f42f";
+}
+.picon.Nature-bees_honey:before {
+    content: "\f430";
+}
+.picon.Nature-bird_house_twitter:before {
+    content: "\f431";
+}
+.picon.Nature-snail_shell_house_nautilus:before {
+    content: "\f432";
+}
+.picon.Medicine-and-Health-heart_pulse_rate_health:before {
+    content: "\f433";
+}
+.picon.Medicine-and-Health-medicine_health_injection_ill:before {
+    content: "\f434";
+}
+.picon.Medicine-and-Health-medicine_patch_injury:before {
+    content: "\f435";
+}
+.picon.Medicine-and-Health-heart_vitals_pulse_rate_health:before {
+    content: "\f436";
+}
+.picon.Medicine-and-Health-kidney_internal_body_part:before {
+    content: "\f437";
+}
+.picon.Medicine-and-Health-lungs_breathing:before {
+    content: "\f438";
+}
+.picon.Medicine-and-Health-microscope_laboratory:before {
+    content: "\f439";
+}
+.picon.Medicine-and-Health-tube_laboratory_chemistry:before {
+    content: "\f43a";
+}
+.picon.Medicine-and-Health-poison_pills_drugs:before {
+    content: "\f43b";
+}
+.picon.Medicine-and-Health-poison_deathly_medicine:before {
+    content: "\f43c";
+}
+.picon.Medicine-and-Health-medicine_drugs_ill_pill:before {
+    content: "\f43d";
+}
+.picon.Medicine-and-Health-blood_infusion:before {
+    content: "\f43e";
+}
+.picon.Medicine-and-Health-blood_infusion:before {
+    content: "\f43f";
+}
+.picon.Medicine-and-Health-hospital_ill_medicine_doctor_ambulance:before {
+    content: "\f440";
+}
+.picon.Medicine-and-Health-fever_body_temperature_ill:before {
+    content: "\f441";
+}
+.picon.Medicine-and-Health-stetoscope_doctor_hospital_ill:before {
+    content: "\f442";
+}
+.picon.Medicine-and-Health-teeth_tooth_dental:before {
+    content: "\f443";
+}
+.picon.Medicine-and-Health-body_weight_fitness_health_fat:before {
+    content: "\f444";
+}
+.picon.Medicine-and-Health-medical_atest_diagnosis:before {
+    content: "\f445";
+}
+.picon.Sports-and-Fitness-basket_ball_sports:before {
+    content: "\f446";
+}
+.picon.Sports-and-Fitness-golf_course_sports:before {
+    content: "\f447";
+}
+.picon.Sports-and-Fitness-table_tennis_ping_pong_sports:before {
+    content: "\f448";
+}
+.picon.Sports-and-Fitness-basket_ball_sports:before {
+    content: "\f449";
+}
+.picon.Sports-and-Fitness-football_stadium_green_court_sports:before {
+    content: "\f44a";
+}
+.picon.Sports-and-Fitness-referee_whistle:before {
+    content: "\f44b";
+}
+.picon.Sports-and-Fitness-ragby_amercian_football_sports:before {
+    content: "\f44c";
+}
+.picon.Sports-and-Fitness-football_soccer_sports:before {
+    content: "\f44d";
+}
+.picon.Sports-and-Fitness-baseball_sports:before {
+    content: "\f44e";
+}
+.picon.Sports-and-Fitness-baseball_tennis_ball_sports:before {
+    content: "\f44f";
+}
+.picon.Sports-and-Fitness-watch_heart_fitness_running_tracker:before {
+    content: "\f450";
+}
+.picon.Sports-and-Fitness-apple_watch_heart_fitness_running_tracker:before {
+    content: "\f451";
+}
+.picon.Sports-and-Fitness-apple_watch_heart_fitness_running_tracker:before {
+    content: "\f452";
+}
+.picon.Sports-and-Fitness-apple_watch_music_song_fitness:before {
+    content: "\f453";
+}
+.picon.Sports-and-Fitness-fitness_running:before {
+    content: "\f454";
+}
+.picon.Sports-and-Fitness-fitness_cycling:before {
+    content: "\f455";
+}
+.picon.Sports-and-Fitness-stopwatch_training_time:before {
+    content: "\f456";
+}
+.picon.Sports-and-Fitness-fitness_weight_gym_lifting_bodybuilding_training:before {
+    content: "\f457";
+}
+.picon.Sports-and-Fitness-fitness_cycle_hometrainer_calories_training:before {
+    content: "\f458";
+}
+.picon.Sports-and-Fitness-fitness_running_calories_training:before {
+    content: "\f459";
+}
+.picon.Sports-and-Fitness-shoes_gear_fitness_running:before {
+    content: "\f45a";
+}
+.picon.Sports-and-Fitness-water_training_hydration:before {
+    content: "\f45b";
+}
+.picon.Food-and-Cooking-eating_spoon_fork_knife:before {
+    content: "\f45c";
+}
+.picon.Food-and-Cooking-cooking:before {
+    content: "\f45d";
+}
+.picon.Food-and-Cooking-tea_coffee_hot:before {
+    content: "\f45e";
+}
+.picon.Food-and-Cooking-coffee_to_go_starbucks:before {
+    content: "\f45f";
+}
+.picon.Food-and-Cooking-milk_tetra_pak:before {
+    content: "\f460";
+}
+.picon.Food-and-Cooking-martini_cocktail_drink:before {
+    content: "\f461";
+}
+.picon.Food-and-Cooking-vine_glass_drink:before {
+    content: "\f462";
+}
+.picon.Food-and-Cooking-soda_glass_drink:before {
+    content: "\f463";
+}
+.picon.Food-and-Cooking-soda_glass_drink:before {
+    content: "\f464";
+}
+.picon.Food-and-Cooking-margarita_cocktail_drink:before {
+    content: "\f465";
+}
+.picon.Food-and-Cooking-vine_glass_drink:before {
+    content: "\f466";
+}
+.picon.Food-and-Cooking-vine_glass_drink:before {
+    content: "\f467";
+}
+.picon.Food-and-Cooking-soda_coke_pepsi_can:before {
+    content: "\f468";
+}
+.picon.Food-and-Cooking-fruit_ice_desert_glass:before {
+    content: "\f469";
+}
+.picon.Food-and-Cooking-beer:before {
+    content: "\f46a";
+}
+.picon.Food-and-Cooking-fish_sea:before {
+    content: "\f46b";
+}
+.picon.Food-and-Cooking-sausage_meat:before {
+    content: "\f46c";
+}
+.picon.Food-and-Cooking-cheese:before {
+    content: "\f46d";
+}
+.picon.Food-and-Cooking-chicken_turkey:before {
+    content: "\f46e";
+}
+.picon.Food-and-Cooking-salad_bowl:before {
+    content: "\f46f";
+}
+.picon.Food-and-Cooking-restaurant_menu_offer:before {
+    content: "\f470";
+}
+.picon.Food-and-Cooking-meal_eating_restaurant_offer:before {
+    content: "\f471";
+}
+.picon.Food-and-Cooking-cook_chef_restaurant_kitchen:before {
+    content: "\f472";
+}
+.picon.Food-and-Cooking-apron_cook_chef_kitchen:before {
+    content: "\f473";
+}
+.picon.Food-and-Cooking-handgloves_hot_kitchen_utensils:before {
+    content: "\f474";
+}
+.picon.Food-and-Cooking-glass_fork_knife_restaurant_food:before {
+    content: "\f475";
+}
+.picon.Food-and-Cooking-knife_fork_knife_restaurant_food:before {
+    content: "\f476";
+}
+.picon.Food-and-Cooking-salt_pepper_spices:before {
+    content: "\f477";
+}
+.picon.Food-and-Cooking-chineese_thai_food_bowl:before {
+    content: "\f478";
+}
+.picon.Food-and-Cooking-cooking_pan_heating:before {
+    content: "\f479";
+}
+.picon.Food-and-Cooking-grater_kitchen_utensils:before {
+    content: "\f47a";
+}
+.picon.Food-and-Cooking-whisk_kitchen_utensils:before {
+    content: "\f47b";
+}
+.picon.Food-and-Cooking-spatula_kitchen_utensils:before {
+    content: "\f47c";
+}
+.picon.Food-and-Cooking-spatula_kitchen_utensils:before {
+    content: "\f47d";
+}
+.picon.Food-and-Cooking-cheese_knife_slicer_kitchen_utensils:before {
+    content: "\f47e";
+}
+.picon.Food-and-Cooking-meat_chopper_kitchen_utensils:before {
+    content: "\f47f";
+}
+.picon.Food-and-Cooking-pizza_knife_slicer_kitchen_utensils:before {
+    content: "\f480";
+}
+.picon.Food-and-Cooking-knife_kitchen_utensils:before {
+    content: "\f481";
+}
+.picon.Food-and-Cooking-big_spoon_soup_kitchen_utensils:before {
+    content: "\f482";
+}
+.picon.Food-and-Cooking-bottle_opener_kitchen_utensils:before {
+    content: "\f483";
+}
+.picon.Food-and-Cooking-toaster_kitchen_appliances:before {
+    content: "\f484";
+}
+.picon.Food-and-Cooking-cooking_hob_kitchen_appliances:before {
+    content: "\f485";
+}
+.picon.Food-and-Cooking-cooking_oven_kitchen_appliances:before {
+    content: "\f486";
+}
+.picon.Food-and-Cooking-microwave_oven_kitchen_appliances:before {
+    content: "\f487";
+}
+.picon.Food-and-Cooking-scale_weight_kitchen_appliances:before {
+    content: "\f488";
+}
+.picon.Food-and-Cooking-egg_timer_cooking_kitchen_utensils:before {
+    content: "\f489";
+}
+.picon.Food-and-Cooking-measuring_cup_kitchen_utensils:before {
+    content: "\f48a";
+}
+.picon.Food-and-Cooking-no_drinking_forbidden:before {
+    content: "\f48b";
+}
+.picon.Food-and-Cooking-no_food_eating_forbidden:before {
+    content: "\f48c";
+}
+.picon.Food-and-Cooking-no_cereals_grains:before {
+    content: "\f48d";
+}
+.picon.Food-and-Cooking-carrot_vegetable:before {
+    content: "\f48e";
+}
+.picon.Food-and-Cooking-cherry_fruit:before {
+    content: "\f48f";
+}
+.picon.Food-and-Cooking-wine_grapes:before {
+    content: "\f490";
+}
+.picon.Food-and-Cooking-orange_peach_fruit:before {
+    content: "\f491";
+}
+.picon.Food-and-Cooking-apple_fruit:before {
+    content: "\f492";
+}
+.picon.Food-and-Cooking-pear_fruit:before {
+    content: "\f493";
+}
+.picon.Food-and-Cooking-lemon_lime_fruit:before {
+    content: "\f494";
+}
+.picon.Food-and-Cooking-orange_lemon_lime_citrus_fruit:before {
+    content: "\f495";
+}
+.picon.Food-and-Cooking-strawberry_fruit:before {
+    content: "\f496";
+}
+.picon.Food-and-Cooking-hamburger_fast_food:before {
+    content: "\f497";
+}
+.picon.Food-and-Cooking-ketchup_fast_food:before {
+    content: "\f498";
+}
+.picon.Food-and-Cooking-popcorn_cinema:before {
+    content: "\f499";
+}
+.picon.Food-and-Cooking-hotdog_fast_food:before {
+    content: "\f49a";
+}
+.picon.Food-and-Cooking-pizza_slice:before {
+    content: "\f49b";
+}
+.picon.Food-and-Cooking-cake_birthday_anniversary:before {
+    content: "\f49c";
+}
+.picon.Food-and-Cooking-cake_birthday_anniversary:before {
+    content: "\f49d";
+}
+.picon.Food-and-Cooking-ice_cream_stick:before {
+    content: "\f49e";
+}
+.picon.Food-and-Cooking-ice_cream_corn:before {
+    content: "\f49f";
+}
+.picon.Food-and-Cooking-cupcake_desert_sweets:before {
+    content: "\f4a0";
+}
+.picon.Food-and-Cooking-donut_doughnut_cookie_desert_sweets:before {
+    content: "\f4a1";
+}
+.picon.Food-and-Cooking-french_croissant_breakfast_sweets:before {
+    content: "\f4a2";
+}
+.picon.Food-and-Cooking-marmalade_breakfast:before {
+    content: "\f4a3";
+}
+.picon.Food-and-Cooking-honey:before {
+    content: "\f4a4";
+}
+.picon.Food-and-Cooking-egg_breakfast:before {
+    content: "\f4a5";
+}
+.picon.Food-and-Cooking-coffee_beans_hand_grinder:before {
+    content: "\f4a6";
+}
+.picon.Food-and-Cooking-coffee_beans:before {
+    content: "\f4a7";
+}
+.picon.Food-and-Cooking-water_boiler:before {
+    content: "\f4a8";
+}
+.picon.Food-and-Cooking-grill_charcoal_barbecue_bbq:before {
+    content: "\f4a9";
+}
+.picon.Food-and-Cooking-grill_fire_charcoal_barbecue_bbq:before {
+    content: "\f4aa";
+}
+.picon.Food-and-Cooking-grill_charcoal_barbecue_bbq:before {
+    content: "\f4ab";
+}
+.picon.Food-and-Cooking-grill_sausage_bbq:before {
+    content: "\f4ac";
+}
+.picon.Food-and-Cooking-grill_t_bone_steak_bbq:before {
+    content: "\f4ad";
+}
+.picon.Home-and-Living-sofa_armchair:before {
+    content: "\f4ae";
+}
+.picon.Home-and-Living-table_reading_light:before {
+    content: "\f4af";
+}
+.picon.Home-and-Living-archive_shelves_sideboard:before {
+    content: "\f4b0";
+}
+.picon.Home-and-Living-wardrobe_shelves:before {
+    content: "\f4b1";
+}
+.picon.Home-and-Living-book_wall_shelf:before {
+    content: "\f4b2";
+}
+.picon.Home-and-Living-plant_green_decoration:before {
+    content: "\f4b3";
+}
+.picon.Home-and-Living-tree_decoration_christmas_new_year_lights:before {
+    content: "\f4b4";
+}
+.picon.Home-and-Living-candle_christmas_light:before {
+    content: "\f4b5";
+}
+.picon.Home-and-Living-hammer_home_utilities:before {
+    content: "\f4b6";
+}
+.picon.Home-and-Living-safety_pin:before {
+    content: "\f4b7";
+}
+.picon.Home-and-Living-hotel_room_tag:before {
+    content: "\f4b8";
+}
+.picon.Home-and-Living-mustache_movember_men:before {
+    content: "\f4b9";
+}
+.picon.Home-and-Living-t-shirt:before {
+    content: "\f4ba";
+}
+.picon.Home-and-Living-foot_shoe_steps:before {
+    content: "\f4bb";
+}
+.picon.Home-and-Living-animal_foot_steps:before {
+    content: "\f4bc";
+}
+.picon.Home-and-Living-power_on_off:before {
+    content: "\f4bd";
+}
+.picon.Home-and-Living-socket_power_electricity_plug:before {
+    content: "\f4be";
+}
+.picon.Home-and-Living-plug_power_electricity:before {
+    content: "\f4bf";
+}
+.picon.Home-and-Living-light_bulb_idea:before {
+    content: "\f4c0";
+}
+.picon.Home-and-Living-flashlight:before {
+    content: "\f4c1";
+}
+.picon.Home-and-Living-thermometer_temperature_hot:before {
+    content: "\f4c2";
+}
+.picon.Home-and-Living-thermometer_temperature_cold:before {
+    content: "\f4c3";
+}
+.picon.Home-and-Living-air_conditioner_temperature:before {
+    content: "\f4c4";
+}
+.picon.Home-and-Living-air_ventilator_flow:before {
+    content: "\f4c5";
+}
+.picon.Home-and-Living-bath_shower:before {
+    content: "\f4c6";
+}
+.picon.Home-and-Living-bathtub_shower:before {
+    content: "\f4c7";
+}
+.picon.Home-and-Living-bathtub:before {
+    content: "\f4c8";
+}
+.picon.Home-and-Living-city_flat_homes:before {
+    content: "\f4c9";
+}
+.picon.Home-and-Living-city_house_home:before {
+    content: "\f4ca";
+}
+.picon.Home-and-Living-city_skyscraper_flat:before {
+    content: "\f4cb";
+}
+.picon.Home-and-Living-home_plant_door:before {
+    content: "\f4cc";
+}
+.picon.Home-and-Living-plant_green:before {
+    content: "\f4cd";
+}
+.picon.Home-and-Living-bonsai_tree_plant_green:before {
+    content: "\f4ce";
+}
+.picon.Home-and-Living-sofa_living_room:before {
+    content: "\f4cf";
+}
+.picon.Home-and-Living-arm_chair_office:before {
+    content: "\f4d0";
+}
+.picon.Home-and-Living-table_desk:before {
+    content: "\f4d1";
+}
+.picon.Home-and-Living-bookshelf_sideboard:before {
+    content: "\f4d2";
+}
+.picon.Home-and-Living-chest_drawers_sideboard:before {
+    content: "\f4d3";
+}
+.picon.Home-and-Living-bed:before {
+    content: "\f4d4";
+}
+.picon.Home-and-Living-tv_shelf:before {
+    content: "\f4d5";
+}
+.picon.Home-and-Living-light_stand_arc:before {
+    content: "\f4d6";
+}
+.picon.Home-and-Living-morning_alarm_clock:before {
+    content: "\f4d7";
+}
+.picon.Home-and-Living-vacuum_cleaner:before {
+    content: "\f4d8";
+}
+.picon.Home-and-Living-cleaning_spray_gun:before {
+    content: "\f4d9";
+}
+.picon.Home-and-Living-paper_towel:before {
+    content: "\f4da";
+}
+.picon.Home-and-Living-fish_bowl_goldfish:before {
+    content: "\f4db";
+}
+.picon.Family-family_relationship_father_mother_child:before {
+    content: "\f4dc";
+}
+.picon.Family-family_relationship_mother_child:before {
+    content: "\f4dd";
+}
+.picon.Family-relationship_couple_love_marriage:before {
+    content: "\f4de";
+}
+.picon.Family-relationship_couple_love_break_divorce:before {
+    content: "\f4df";
+}
+.picon.Family-relationship_ring_love_marriage_engage_fiance:before {
+    content: "\f4e0";
+}
+.picon.Family-child_baby_stroller:before {
+    content: "\f4e1";
+}
+.picon.Family-child_toy_playground_horse:before {
+    content: "\f4e2";
+}
+.picon.Family-child_baby_toys:before {
+    content: "\f4e3";
+}
+.picon.Clothing-t-shirt:before {
+    content: "\f4e4";
+}
+.picon.Clothing-shirt_tie:before {
+    content: "\f4e5";
+}
+.picon.Clothing-long_sleeves_shirt:before {
+    content: "\f4e6";
+}
+.picon.Clothing-long_sleeves_shirt:before {
+    content: "\f4e7";
+}
+.picon.Clothing-short_pants_shorts_bermudas:before {
+    content: "\f4e8";
+}
+.picon.Clothing-pants:before {
+    content: "\f4e9";
+}
+.picon.Clothing-skirt:before {
+    content: "\f4ea";
+}
+.picon.Clothing-dress:before {
+    content: "\f4eb";
+}
+.picon.Clothing-underwear:before {
+    content: "\f4ec";
+}
+.picon.Clothing-socks:before {
+    content: "\f4ed";
+}
+.picon.Clothing-baseball_cap:before {
+    content: "\f4ee";
+}
+.picon.Clothing-cap_hat_beanie:before {
+    content: "\f4ef";
+}
+.picon.Clothing-women_high_heels_shoe:before {
+    content: "\f4f0";
+}
+.picon.Clothing-sneakers_freetime_shoe:before {
+    content: "\f4f1";
+}
+.picon.Clothing-boots_high_shoe:before {
+    content: "\f4f2";
+}
+.picon.Clothing-no_ironing:before {
+    content: "\f4f3";
+}
+.picon.Clothing-steam_ironing:before {
+    content: "\f4f4";
+}
+.picon.Clothing-steam_ironing:before {
+    content: "\f4f5";
+}
+.picon.Clothing-no_dryer:before {
+    content: "\f4f6";
+}
+.picon.Clothing-washing_machine:before {
+    content: "\f4f7";
+}
+.picon.Leisure-and-Fun-puzzle_module_part:before {
+    content: "\f4f8";
+}
+.picon.Leisure-and-Fun-chess_crown_queen:before {
+    content: "\f4f9";
+}
+.picon.Leisure-and-Fun-gamepad_video_game_playing:before {
+    content: "\f4fa";
+}
+.picon.Leisure-and-Fun-bowling_ball_pins:before {
+    content: "\f4fb";
+}
+.picon.Leisure-and-Fun-archery_target_shooting:before {
+    content: "\f4fc";
+}
+.picon.Leisure-and-Fun-holiday_seaside_relax:before {
+    content: "\f4fd";
+}
+.picon.Leisure-and-Fun-drums_playing_sound:before {
+    content: "\f4fe";
+}
+.picon.Leisure-and-Fun-abacus_math_calculator_school:before {
+    content: "\f4ff";
+}
+.picon.Leisure-and-Fun-cards_playing_poker_casino:before {
+    content: "\f500";
+}
+.picon.Leisure-and-Fun-playing_dice_casino:before {
+    content: "\f501";
+}
+.picon.Leisure-and-Fun-pacman_game:before {
+    content: "\f502";
+}
+.picon.Leisure-and-Fun-pacman_enemy_game:before {
+    content: "\f503";
+}
+.picon.Leisure-and-Fun-coffin:before {
+    content: "\f504";
+}
+.picon.Leisure-and-Fun-domino_numbers_game:before {
+    content: "\f505";
+}
+.picon.Leisure-and-Fun-baloons_party_birthday:before {
+    content: "\f506";
+}
+.picon.Leisure-and-Fun-masks_theater_play:before {
+    content: "\f507";
+}
+.picon.Leisure-and-Fun-chess_horse_game:before {
+    content: "\f508";
+}
+.picon.Leisure-and-Fun-billiard_cue_balls_pool:before {
+    content: "\f509";
+}
+.picon.Leisure-and-Fun-guitar_playing_music_band:before {
+    content: "\f50a";
+}
+.picon.Leisure-and-Fun-seashell:before {
+    content: "\f50b";
+}
+.picon.Leisure-and-Fun-submarine_underwater_sea_diving:before {
+    content: "\f50c";
+}
+.picon.Leisure-and-Fun-diving_mask_gear_sea_underwater:before {
+    content: "\f50d";
+}
+.picon.Leisure-and-Fun-sea_waves:before {
+    content: "\f50e";
+}
+.picon.Leisure-and-Fun-bikini_swimwear:before {
+    content: "\f50f";
+}
+.picon.Leisure-and-Fun-hat:before {
+    content: "\f510";
+}
+.picon.Leisure-and-Fun-flipflops:before {
+    content: "\f511";
+}
+.picon.Leisure-and-Fun-sunglasses:before {
+    content: "\f512";
+}
+.picon.Science-and-Space-atom_nuclear_learning_physics:before {
+    content: "\f513";
+}
+.picon.Science-and-Space-lab_chemistry_experiment:before {
+    content: "\f514";
+}
+.picon.Science-and-Space-bomb:before {
+    content: "\f515";
+}
+.picon.Science-and-Space-brain_thinking_mind_knowledge:before {
+    content: "\f516";
+}
+.picon.Science-and-Space-brain_thinking_mind_knowledge:before {
+    content: "\f517";
+}
+.picon.Science-and-Space-study_university_school_degree_graduate:before {
+    content: "\f518";
+}
+.picon.Science-and-Space-brain_thinking_mind_knowledge:before {
+    content: "\f519";
+}
+.picon.Science-and-Space-mathematics_root_equation:before {
+    content: "\f51a";
+}
+.picon.Science-and-Space-mathematics_curve_coordinate_system:before {
+    content: "\f51b";
+}
+.picon.Science-and-Space-3d_dimensions_object_coordinate_system:before {
+    content: "\f51c";
+}
+.picon.Science-and-Space-mathematics_calculate_add_subtract_divide_multiply:before {
+    content: "\f51d";
+}
+.picon.Science-and-Space-space_shuttle_aircraft_nasa_rocket:before {
+    content: "\f51e";
+}
+.picon.Science-and-Space-space_moon_planet_galaxy_saturn:before {
+    content: "\f51f";
+}
+.picon.Science-and-Space-telescope_astronomy_stars_space_galaxy:before {
+    content: "\f520";
+}
+.picon.Science-and-Space-alien:before {
+    content: "\f521";
+}
+.picon.Science-and-Space-spaceship_alien:before {
+    content: "\f522";
+}
+.picon.Charts-and-Analytics-gantogram:before {
+    content: "\f523";
+}
+.picon.Charts-and-Analytics-line_chart_growth:before {
+    content: "\f524";
+}
+.picon.Charts-and-Analytics-line_chart_growth:before {
+    content: "\f525";
+}
+.picon.Charts-and-Analytics-line_chart_recession:before {
+    content: "\f526";
+}
+.picon.Charts-and-Analytics-line_bar_chart:before {
+    content: "\f527";
+}
+.picon.Charts-and-Analytics-line_bar_chart:before {
+    content: "\f528";
+}
+.picon.Charts-and-Analytics-oscilloscope:before {
+    content: "\f529";
+}
+.picon.Charts-and-Analytics-bar_chart:before {
+    content: "\f52a";
+}
+.picon.Charts-and-Analytics-bar_chart_value:before {
+    content: "\f52b";
+}
+.picon.Charts-and-Analytics-bar_chart_growth:before {
+    content: "\f52c";
+}
+.picon.Charts-and-Analytics-chart_analytics:before {
+    content: "\f52d";
+}
+.picon.Charts-and-Analytics-chart_analytics:before {
+    content: "\f52e";
+}
+.picon.Charts-and-Analytics-chart_analytics_discover:before {
+    content: "\f52f";
+}
+.picon.Charts-and-Analytics-bubble_chart:before {
+    content: "\f530";
+}
+.picon.Charts-and-Analytics-horizontal_bar_chart:before {
+    content: "\f531";
+}
+.picon.Charts-and-Analytics-bar_chart:before {
+    content: "\f532";
+}
+.picon.Charts-and-Analytics-stacked_bar_chart:before {
+    content: "\f533";
+}
+.picon.Charts-and-Analytics-candle_bar_chart:before {
+    content: "\f534";
+}
+.picon.Charts-and-Analytics-pie_chart:before {
+    content: "\f535";
+}
+.picon.Charts-and-Analytics-pie_chart:before {
+    content: "\f536";
+}
+.picon.Charts-and-Analytics-pyramid_chart:before {
+    content: "\f537";
+}
+.picon.Charts-and-Analytics-radar_chart:before {
+    content: "\f538";
+}
+.picon.Charts-and-Analytics-world_map:before {
+    content: "\f539";
+}
+.picon.Charts-and-Analytics-progress_bar_gauge:before {
+    content: "\f53a";
+}
+.picon.Charts-and-Analytics-analytics_report:before {
+    content: "\f53b";
+}
+.picon.Charts-and-Analytics-analytics_report:before {
+    content: "\f53c";
+}
+.picon.Charts-and-Analytics-analytics_report:before {
+    content: "\f53d";
+}
+.picon.Charts-and-Analytics-analytics_report:before {
+    content: "\f53e";
+}
+.picon.Charts-and-Analytics-kpi_dashboard_report:before {
+    content: "\f53f";
+}
+.picon.Charts-and-Analytics-kpi_dashboard_report:before {
+    content: "\f540";
+}
+.picon.Charts-and-Analytics-kpi_dashboard_report:before {
+    content: "\f541";
+}
+.picon.Charts-and-Analytics-dashboard_datacards:before {
+    content: "\f542";
+}
+.picon.Charts-and-Analytics-watch_analytics_kpi:before {
+    content: "\f543";
+}
+.picon.Charts-and-Analytics-mobile_analytics_kpi:before {
+    content: "\f544";
+}
+.picon.Charts-and-Analytics-mobile_analytics_kpi:before {
+    content: "\f545";
+}
+.picon.Charts-and-Analytics-kpi_dashboard:before {
+    content: "\f546";
+}
+.picon.Charts-and-Analytics-kpi_dashboard_monitor:before {
+    content: "\f547";
+}
+.picon.Business-growth_success:before {
+    content: "\f548";
+}
+.picon.Business-growth_success:before {
+    content: "\f549";
+}
+.picon.Business-deal_money_business:before {
+    content: "\f54a";
+}
+.picon.Business-deal_risk_business:before {
+    content: "\f54b";
+}
+.picon.Business-deal_success_business:before {
+    content: "\f54c";
+}
+.picon.Business-deal_growth_business_success:before {
+    content: "\f54d";
+}
+.picon.Business-growth_business_success_startup:before {
+    content: "\f54e";
+}
+.picon.Business-business_money:before {
+    content: "\f54f";
+}
+.picon.Business-growth_business_money:before {
+    content: "\f550";
+}
+.picon.Business-recession_business_money:before {
+    content: "\f551";
+}
+.picon.Business-business_stats_report_meeting_annual:before {
+    content: "\f552";
+}
+.picon.Business-money_deal_idea_startup:before {
+    content: "\f553";
+}
+.picon.Business-money_deal:before {
+    content: "\f554";
+}
+.picon.Business-money_businessman:before {
+    content: "\f555";
+}
+.picon.Money-and-Finance-2-money_dollar_coins_bills:before {
+    content: "\f556";
+}
+.picon.Money-and-Finance-2-money_dollars:before {
+    content: "\f557";
+}
+.picon.Money-and-Finance-2-money_euro:before {
+    content: "\f558";
+}
+.picon.Money-and-Finance-2-money_bitcoin_btc:before {
+    content: "\f559";
+}
+.picon.Money-and-Finance-2-money_pound:before {
+    content: "\f55a";
+}
+.picon.Money-and-Finance-2-money_yen:before {
+    content: "\f55b";
+}
+.picon.Money-and-Finance-2-money_coins:before {
+    content: "\f55c";
+}
+.picon.Money-and-Finance-2-money_coin:before {
+    content: "\f55d";
+}
+.picon.Money-and-Finance-2-money_coins:before {
+    content: "\f55e";
+}
+.picon.Money-and-Finance-2-money_bill:before {
+    content: "\f55f";
+}
+.picon.Money-and-Finance-2-currency_dollars_usd:before {
+    content: "\f560";
+}
+.picon.Money-and-Finance-2-currency_euro_eur:before {
+    content: "\f561";
+}
+.picon.Money-and-Finance-2-currency_bitcoin_btc:before {
+    content: "\f562";
+}
+.picon.Money-and-Finance-2-currency_pounds:before {
+    content: "\f563";
+}
+.picon.Money-and-Finance-2-currency_yen:before {
+    content: "\f564";
+}
+.picon.Money-and-Finance-2-currency_exchange:before {
+    content: "\f565";
+}
+.picon.Money-and-Finance-2-money_balance:before {
+    content: "\f566";
+}
+.picon.eCommerce-shopping_cart:before {
+    content: "\f567";
+}
+.picon.eCommerce-shopping_cart_successful:before {
+    content: "\f568";
+}
+.picon.eCommerce-shopping_basket:before {
+    content: "\f569";
+}
+.picon.eCommerce-price_tag:before {
+    content: "\f56a";
+}
+.picon.eCommerce-shopping_bag:before {
+    content: "\f56b";
+}
+.picon.eCommerce-shopping_bags:before {
+    content: "\f56c";
+}
+.picon.eCommerce-store_market:before {
+    content: "\f56d";
+}
+.picon.eCommerce-mobile_shopping:before {
+    content: "\f56e";
+}
+.picon.eCommerce-store_location:before {
+    content: "\f56f";
+}
+.picon.eCommerce-gift_card_wrap:before {
+    content: "\f570";
+}
+.picon.eCommerce-credit_card:before {
+    content: "\f571";
+}
+.picon.eCommerce-credit_card_expired:before {
+    content: "\f572";
+}
+.picon.eCommerce-insert_coin:before {
+    content: "\f573";
+}
+.picon.eCommerce-payment_mobile_credit_card:before {
+    content: "\f574";
+}
+.picon.eCommerce-payment_visa_credit_card:before {
+    content: "\f575";
+}
+.picon.eCommerce-payment_mastercard_credit_card:before {
+    content: "\f576";
+}
+.picon.eCommerce-payment_security_ssl_https:before {
+    content: "\f577";
+}
+.picon.eCommerce-cash_register_checkout:before {
+    content: "\f578";
+}
+.picon.eCommerce-invoice_bill_paid:before {
+    content: "\f579";
+}
+.picon.eCommerce-money_coins_payment_pay:before {
+    content: "\f57a";
+}
+.picon.eCommerce-barcode_scan:before {
+    content: "\f57b";
+}
+.picon.eCommerce-sale_discount:before {
+    content: "\f57c";
+}
+.picon.eCommerce-sale_discount:before {
+    content: "\f57d";
+}
+.picon.eCommerce-sale_discount_coupon:before {
+    content: "\f57e";
+}
+.picon.eCommerce-sale_discount_coupon:before {
+    content: "\f57f";
+}
+.picon.eCommerce-action_discount_coupon:before {
+    content: "\f580";
+}
+.picon.eCommerce-reduced_discount_coupon:before {
+    content: "\f581";
+}
+.picon.eCommerce-hot_sale:before {
+    content: "\f582";
+}
+.picon.eCommerce-support_phone_24_hours:before {
+    content: "\f583";
+}
+.picon.eCommerce-support_phone_24_hours:before {
+    content: "\f584";
+}
+.picon.Delivery-box_package_delivery:before {
+    content: "\f585";
+}
+.picon.Delivery-box_delivery_valentine:before {
+    content: "\f586";
+}
+.picon.Delivery-box_delivery_open:before {
+    content: "\f587";
+}
+.picon.Delivery-box_package:before {
+    content: "\f588";
+}
+.picon.Delivery-delivery_stock:before {
+    content: "\f589";
+}
+.picon.Delivery-delivery_fast_express_shipping:before {
+    content: "\f58a";
+}
+.picon.Delivery-delivery_free_shipping:before {
+    content: "\f58b";
+}
+.picon.Delivery-storage_stock:before {
+    content: "\f58c";
+}
+.picon.Delivery-storage_lift:before {
+    content: "\f58d";
+}
+.picon.Delivery-delivery_postman_door:before {
+    content: "\f58e";
+}
+.picon.Delivery-delivery_careful_handling_shipping_care_insurance:before {
+    content: "\f58f";
+}
+.picon.Badges-new_badge:before {
+    content: "\f590";
+}
+.picon.Badges-new_badge:before {
+    content: "\f591";
+}
+.picon.Badges-new_best:before {
+    content: "\f592";
+}
+.picon.Badges-medal_certified:before {
+    content: "\f593";
+}
+.picon.Badges-medal_best_winner:before {
+    content: "\f594";
+}
+.picon.Badges-spotlight:before {
+    content: "\f595";
+}
+.picon.Badges-medal_winner:before {
+    content: "\f596";
+}
+.picon.Badges-first_medal_winner_champion:before {
+    content: "\f597";
+}
+.picon.Badges-medal_war_hero:before {
+    content: "\f598";
+}
+.picon.Maps-and-Navigation-2-home_location_favorite:before {
+    content: "\f599";
+}
+.picon.Maps-and-Navigation-2-home_location_navigate:before {
+    content: "\f59a";
+}
+.picon.Maps-and-Navigation-2-home_location_navigate:before {
+    content: "\f59b";
+}
+.picon.Maps-and-Navigation-2-search_location:before {
+    content: "\f59c";
+}
+.picon.Maps-and-Navigation-2-distance_navigation:before {
+    content: "\f59d";
+}
+.picon.Maps-and-Navigation-2-international_location:before {
+    content: "\f59e";
+}
+.picon.Maps-and-Navigation-2-international_world:before {
+    content: "\f59f";
+}
+.picon.Maps-and-Navigation-2-search_location:before {
+    content: "\f5a0";
+}
+.picon.Maps-and-Navigation-2-international_location:before {
+    content: "\f5a1";
+}
+.picon.Maps-and-Navigation-2-international_location_global:before {
+    content: "\f5a2";
+}
+.picon.Movies-2-video_play_player_screen:before {
+    content: "\f5a3";
+}
+.picon.Movies-2-video_play_player_screen_presentation:before {
+    content: "\f5a4";
+}
+.picon.Movies-2-movie_cinema_play_presentation:before {
+    content: "\f5a5";
+}
+.picon.Movies-2-movie_cinema_ticket:before {
+    content: "\f5a6";
+}
+.picon.Movies-2-ticket:before {
+    content: "\f5a7";
+}
+.picon.Movies-2-remote_controler:before {
+    content: "\f5a8";
+}
+.picon.Movies-2-movie_director_chair_cut:before {
+    content: "\f5a9";
+}
+.picon.Movies-2-camera_movie_presentation_video:before {
+    content: "\f5aa";
+}
+.picon.Movies-2-film_movie:before {
+    content: "\f5ab";
+}
+.picon.Movies-2-3d_glasses_movie_cinema_effects_action:before {
+    content: "\f5ac";
+}
+.picon.Media-Controls-media_control_back_previous:before {
+    content: "\f5ad";
+}
+.picon.Media-Controls-media_control_revind:before {
+    content: "\f5ae";
+}
+.picon.Media-Controls-media_control_previous_back:before {
+    content: "\f5af";
+}
+.picon.Media-Controls-media_control_back_to_start_beginning:before {
+    content: "\f5b0";
+}
+.picon.Media-Controls-media_control_stop:before {
+    content: "\f5b1";
+}
+.picon.Media-Controls-media_control_pause:before {
+    content: "\f5b2";
+}
+.picon.Media-Controls-media_control_play_start:before {
+    content: "\f5b3";
+}
+.picon.Media-Controls-media_control_next_fast_forward:before {
+    content: "\f5b4";
+}
+.picon.Media-Controls-media_control_next:before {
+    content: "\f5b5";
+}
+.picon.Media-Controls-media_control_to_end:before {
+    content: "\f5b6";
+}
+.picon.Media-Controls-media_control_record:before {
+    content: "\f5b7";
+}
+.picon.Media-Controls-media_control_record:before {
+    content: "\f5b8";
+}
+.picon.Media-Controls-media_control_voice_recorder:before {
+    content: "\f5b9";
+}
+.picon.Media-Controls-media_control_eject_open:before {
+    content: "\f5ba";
+}
+.picon.Media-Controls-infinite_infinity_loop:before {
+    content: "\f5bb";
+}
+.picon.Media-Controls-infinite_infinity_loop_repeat:before {
+    content: "\f5bc";
+}
+.picon.Media-Controls-repeat_loop_again_back:before {
+    content: "\f5bd";
+}
+.picon.Media-Controls-repeat_loop_again_back:before {
+    content: "\f5be";
+}
+.picon.Media-Controls-looped-square_command_key:before {
+    content: "\f5bf";
+}
+.picon.Media-Controls-path_obstacles:before {
+    content: "\f5c0";
+}
+.picon.Essentials-2-home_house:before {
+    content: "\f5c1";
+}
+.picon.Essentials-2-hamburger_home_menu:before {
+    content: "\f5c2";
+}
+.picon.Essentials-2-bookmark_book_read:before {
+    content: "\f5c3";
+}
+.picon.Essentials-2-bookmark_book_read:before {
+    content: "\f5c4";
+}
+.picon.Essentials-2-time_watch_wrist_clock:before {
+    content: "\f5c5";
+}
+.picon.Essentials-2-time_clock_forward:before {
+    content: "\f5c6";
+}
+.picon.Essentials-2-time_clock_back_backup_revert:before {
+    content: "\f5c7";
+}
+.picon.Essentials-2-timer_stop_seconds:before {
+    content: "\f5c8";
+}
+.picon.Essentials-2-real_time_clock_realtime:before {
+    content: "\f5c9";
+}
+.picon.Essentials-2-shared_time_management:before {
+    content: "\f5ca";
+}
+.picon.Essentials-2-calendar_week_days_trial:before {
+    content: "\f5cb";
+}
+.picon.Essentials-2-calendar_month_day_date:before {
+    content: "\f5cc";
+}
+.picon.Essentials-2-calendar_week_month_pick_date:before {
+    content: "\f5cd";
+}
+.picon.Essentials-2-settings_preferences:before {
+    content: "\f5ce";
+}
+.picon.Essentials-2-settings_manage:before {
+    content: "\f5cf";
+}
+.picon.Essentials-2-control_panel_settings:before {
+    content: "\f5d0";
+}
+.picon.Essentials-2-settings_preferences:before {
+    content: "\f5d1";
+}
+.picon.Essentials-2-settings_shared:before {
+    content: "\f5d2";
+}
+.picon.Essentials-2-information_sign_info:before {
+    content: "\f5d3";
+}
+.picon.Essentials-2-support_help:before {
+    content: "\f5d4";
+}
+.picon.Essentials-2-phone_call:before {
+    content: "\f5d5";
+}
+.picon.Essentials-2-phone_call_ringing:before {
+    content: "\f5d6";
+}
+.picon.Essentials-2-phone_call:before {
+    content: "\f5d7";
+}
+.picon.Essentials-2-ringer_alarm_notification_alert:before {
+    content: "\f5d8";
+}
+.picon.Essentials-2-ringer_alarm_notification_alert:before {
+    content: "\f5d9";
+}
+.picon.Essentials-2-mute_ringer_alarm_notification_alert_off:before {
+    content: "\f5da";
+}
+.picon.Essentials-2-notification_news_marketing_announcement:before {
+    content: "\f5db";
+}
+.picon.Essentials-2-notification_news_marketing_announcement:before {
+    content: "\f5dc";
+}
+.picon.Essentials-2-sound_speaker:before {
+    content: "\f5dd";
+}
+.picon.Essentials-2-sleep_day_night:before {
+    content: "\f5de";
+}
+.picon.Essentials-2-flag:before {
+    content: "\f5df";
+}
+.picon.Essentials-2-flag:before {
+    content: "\f5e0";
+}
+.picon.Essentials-2-flag:before {
+    content: "\f5e1";
+}
+.picon.Essentials-2-door_logout_exit:before {
+    content: "\f5e2";
+}
+.picon.Essentials-2-door_logout_exit:before {
+    content: "\f5e3";
+}
+.picon.Essentials-2-door_login_entrance:before {
+    content: "\f5e4";
+}
+.picon.Essentials-2-door_entrance_open_exit_leave:before {
+    content: "\f5e5";
+}
+.picon.Essentials-2-share_sharing:before {
+    content: "\f5e6";
+}
+.picon.Essentials-2-download_store_file:before {
+    content: "\f5e7";
+}
+.picon.Essentials-2-download_file_store:before {
+    content: "\f5e8";
+}
+.picon.Essentials-2-hourglass_sandglass_waiting_sand_clock:before {
+    content: "\f5e9";
+}
+.picon.Devices-mobile_phone_lock_password:before {
+    content: "\f5ea";
+}
+.picon.Devices-mobile_phone_case:before {
+    content: "\f5eb";
+}
+.picon.Devices-mobile_phone_location:before {
+    content: "\f5ec";
+}
+.picon.Devices-mobile_phone_home_location:before {
+    content: "\f5ed";
+}
+.picon.Devices-mobile_phone_download:before {
+    content: "\f5ee";
+}
+.picon.Devices-mobile_phone_download:before {
+    content: "\f5ef";
+}
+.picon.Devices-mobile_phone_download_store:before {
+    content: "\f5f0";
+}
+.picon.Devices-mobile_phone_news_browser_content:before {
+    content: "\f5f1";
+}
+.picon.Devices-mobile_phone_galery_photos:before {
+    content: "\f5f2";
+}
+.picon.Devices-mobile_phone_content_push_notification_news:before {
+    content: "\f5f3";
+}
+.picon.Devices-mobile_phone_code_developer_apps:before {
+    content: "\f5f4";
+}
+.picon.Devices-mobile_phone_rotate_screen_landscape_portrait:before {
+    content: "\f5f5";
+}
+.picon.Devices-mobile_watch:before {
+    content: "\f5f6";
+}
+.picon.Devices-screen_computer_search:before {
+    content: "\f5f7";
+}
+.picon.Devices-password_computer_login_secure:before {
+    content: "\f5f8";
+}
+.picon.Devices-computer_scren_maximize_size:before {
+    content: "\f5f9";
+}
+.picon.Devices-mobile_computer_scren_maximize_size:before {
+    content: "\f5fa";
+}
+.picon.Devices-computer_mobile_desktop:before {
+    content: "\f5fb";
+}
+.picon.Devices-computer_mobile_sync_synced:before {
+    content: "\f5fc";
+}
+.picon.Devices-computer_mobile_sync:before {
+    content: "\f5fd";
+}
+.picon.Devices-computer_laptop_working_user:before {
+    content: "\f5fe";
+}
+.picon.Devices-computer_laptop_working_user:before {
+    content: "\f5ff";
+}
+.picon.Devices-computer_desktop:before {
+    content: "\f600";
+}
+.picon.Architecture-and-Construction-design_plan:before {
+    content: "\f601";
+}
+.picon.Architecture-and-Construction-design_plan:before {
+    content: "\f602";
+}
+.picon.Architecture-and-Construction-architecture_house_design:before {
+    content: "\f603";
+}
+.picon.Architecture-and-Construction-architecture_blueprint_plan:before {
+    content: "\f604";
+}
+.picon.Architecture-and-Construction-architecture_floor_plan_house:before {
+    content: "\f605";
+}
+.picon.Architecture-and-Construction-architecture_floor_plan_house:before {
+    content: "\f606";
+}
+.picon.Architecture-and-Construction-architecture_house_winner:before {
+    content: "\f607";
+}
+.picon.Architecture-and-Construction-design_ruler_pencil:before {
+    content: "\f608";
+}
+.picon.Architecture-and-Construction-design_ruler_pencil_keyboard:before {
+    content: "\f609";
+}
+.picon.Architecture-and-Construction-design_ruler_pencil_computer:before {
+    content: "\f60a";
+}
+.picon.Architecture-and-Construction-construction_crane_building_site:before {
+    content: "\f60b";
+}
+.picon.Architecture-and-Construction-lift_heavy_construction_crane_building_site:before {
+    content: "\f60c";
+}
+.picon.Architecture-and-Construction-lift_heavy_construction_crane_building_site:before {
+    content: "\f60d";
+}
+.picon.Architecture-and-Construction-screw_nail_construction:before {
+    content: "\f60e";
+}
+.picon.Architecture-and-Construction-construction_building_concrete_wall:before {
+    content: "\f60f";
+}
+.picon.Architecture-and-Construction-construction_building_concrete_wall:before {
+    content: "\f610";
+}
+.picon.Architecture-and-Construction-construction_wood_material:before {
+    content: "\f611";
+}
+.picon.Architecture-and-Construction-construction_steel_material:before {
+    content: "\f612";
+}
+.picon.Architecture-and-Construction-wood_floor_material_parquet:before {
+    content: "\f613";
+}
+.picon.Architecture-and-Construction-roof_tile_material:before {
+    content: "\f614";
+}
+.picon.Architecture-and-Construction-concrete_material:before {
+    content: "\f615";
+}
+.picon.Architecture-and-Construction-isolation_material:before {
+    content: "\f616";
+}
+.picon.Architecture-and-Construction-architecture_column_beam_greek_style:before {
+    content: "\f617";
+}
+.picon.Architecture-and-Construction-house_residental_home:before {
+    content: "\f618";
+}
+.picon.Architecture-and-Construction-residental_building_flats:before {
+    content: "\f619";
+}
+.picon.Architecture-and-Construction-park_bench_nature_tree:before {
+    content: "\f61a";
+}
+.picon.Architecture-and-Construction-residental_city_company_skyscraper:before {
+    content: "\f61b";
+}
+.picon.Architecture-and-Construction-church_castle_villa_building:before {
+    content: "\f61c";
+}
+.picon.Architecture-and-Construction-residental_house_home_tree:before {
+    content: "\f61d";
+}
+.picon.Architecture-and-Construction-church_pray:before {
+    content: "\f61e";
+}
+.picon.Architecture-and-Construction-box_cube_3d:before {
+    content: "\f61f";
+}
+.picon.Architecture-and-Construction-box_cube_3d:before {
+    content: "\f620";
+}
+.picon.Architecture-and-Construction-round_sphere_3d:before {
+    content: "\f621";
+}
+.picon.Architecture-and-Construction-box_cube_3d:before {
+    content: "\f622";
+}
+.picon.Architecture-and-Construction-cylinder_3d:before {
+    content: "\f623";
+}
+.picon.Architecture-and-Construction-pyramid_3d:before {
+    content: "\f624";
+}
+.picon.Architecture-and-Construction-boxes_cubes:before {
+    content: "\f625";
+}
+.picon.Print-and-Papers-papers_document:before {
+    content: "\f626";
+}
+.picon.Print-and-Papers-paper_flyer:before {
+    content: "\f627";
+}
+.picon.Print-and-Papers-paper_flyer_fold:before {
+    content: "\f628";
+}
+.picon.Print-and-Papers-paper_flyer_fold:before {
+    content: "\f629";
+}
+.picon.Print-and-Papers-paper_flyer_fold:before {
+    content: "\f62a";
+}
+.picon.Print-and-Papers-paper_flyer_fold:before {
+    content: "\f62b";
+}
+.picon.Print-and-Papers-card_paper_flyer_fold:before {
+    content: "\f62c";
+}
+.picon.Print-and-Papers-paper_list:before {
+    content: "\f62d";
+}
+.picon.Print-and-Papers-image_frame_wall:before {
+    content: "\f62e";
+}
+.picon.Print-and-Papers-paper_size_dimension:before {
+    content: "\f62f";
+}
+.picon.Print-and-Papers-a0_paper_size_dimension:before {
+    content: "\f630";
+}
+.picon.Print-and-Papers-a1_paper_size_dimension:before {
+    content: "\f631";
+}
+.picon.Print-and-Papers-a2_paper_size_dimension:before {
+    content: "\f632";
+}
+.picon.Print-and-Papers-a3_paper_size_dimension:before {
+    content: "\f633";
+}
+.picon.Print-and-Papers-a4_paper_size_dimension:before {
+    content: "\f634";
+}
+.picon.Print-and-Papers-a5_paper_size_dimension:before {
+    content: "\f635";
+}
+.picon.Print-and-Papers-a6_paper_size_dimension:before {
+    content: "\f636";
+}
+.picon.School-and-Learning-book_learning_reading:before {
+    content: "\f637";
+}
+.picon.School-and-Learning-book_learning_reading_bookmark:before {
+    content: "\f638";
+}
+.picon.School-and-Learning-study_manual_help_instructions:before {
+    content: "\f639";
+}
+.picon.School-and-Learning-reading_book_study_learning:before {
+    content: "\f63a";
+}
+.picon.School-and-Learning-reading_book_study_learning:before {
+    content: "\f63b";
+}
+.picon.School-and-Learning-glasses_reading:before {
+    content: "\f63c";
+}
+.picon.School-and-Learning-headphones_listening_radio_music:before {
+    content: "\f63d";
+}
+.picon.School-and-Learning-learn_study_manual_instructions:before {
+    content: "\f63e";
+}
+.picon.School-and-Learning-attention_danger:before {
+    content: "\f63f";
+}
+.picon.School-and-Learning-idea_thinking_study_startup:before {
+    content: "\f640";
+}
+.picon.School-and-Learning-thinking_puzzle_idea:before {
+    content: "\f641";
+}
+.picon.School-and-Learning-test_exam_survey_school:before {
+    content: "\f642";
+}
+.picon.School-and-Learning-school_board_learning_teacher_alphabet:before {
+    content: "\f643";
+}
+.picon.School-and-Learning-school_learning_teacher_presentation_keynote:before {
+    content: "\f644";
+}
+.picon.School-and-Learning-school_learning_alphabet_board:before {
+    content: "\f645";
+}
+.picon.School-and-Learning-school_learning_maths_board:before {
+    content: "\f646";
+}
+.picon.School-and-Learning-school_learning_teacher_desk:before {
+    content: "\f647";
+}
+.picon.School-and-Learning-school_books_learning_study:before {
+    content: "\f648";
+}
+.picon.School-and-Learning-compasses_compass_drawing:before {
+    content: "\f649";
+}
+.picon.School-and-Learning-certificate_diploma_degree:before {
+    content: "\f64a";
+}
+.picon.School-and-Learning-certificate_diploma_degree:before {
+    content: "\f64b";
+}
+.picon.School-and-Learning-certificate_diploma_award:before {
+    content: "\f64c";
+}
+.picon.School-and-Learning-certificate_signed_document_achievement:before {
+    content: "\f64d";
+}
+.picon.School-and-Learning-brain_thinking_idea_intelligence_iq:before {
+    content: "\f64e";
+}
+.picon.School-and-Learning-molecular_chemical_structure_chemistry:before {
+    content: "\f64f";
+}
+.picon.School-and-Learning-newton_cradle_balance_balls:before {
+    content: "\f650";
+}
+.picon.School-and-Learning-chemistry_lab_experiment:before {
+    content: "\f651";
+}
+.picon.School-and-Learning-chemistry_lab_experiment:before {
+    content: "\f652";
+}
+.picon.School-and-Learning-idea_bulb_light:before {
+    content: "\f653";
+}
+.picon.School-and-Learning-idea_bulb_light:before {
+    content: "\f654";
+}
+.picon.School-and-Learning-hearing_ear_listening_audio:before {
+    content: "\f655";
+}
+.picon.School-and-Learning-hearing_ear_listening_audio:before {
+    content: "\f656";
+}
+.picon.School-and-Learning-learning_school_owl_intelligence_knowledge:before {
+    content: "\f657";
+}
+.picon.Relationship-sharing_love:before {
+    content: "\f658";
+}
+.picon.Relationship-sharing_love:before {
+    content: "\f659";
+}
+.picon.Relationship-sharing_love:before {
+    content: "\f65a";
+}
+.picon.Relationship-spread_give_love:before {
+    content: "\f65b";
+}
+.picon.Relationship-spread_give_love:before {
+    content: "\f65c";
+}
+.picon.Relationship-love_couple_relationship:before {
+    content: "\f65d";
+}
+.picon.Relationship-love_relationship_valentine:before {
+    content: "\f65e";
+}
+.picon.Relationship-cheers_champagne_anniversary:before {
+    content: "\f65f";
+}
+.picon.Relationship-necklace:before {
+    content: "\f660";
+}
+.picon.Relationship-ring_engagement_wedding:before {
+    content: "\f661";
+}
+.picon.Relationship-love_comment_tag:before {
+    content: "\f662";
+}
+.picon.Relationship-love_bag_gift:before {
+    content: "\f663";
+}
+.picon.Relationship-love_letter_envelope_mail_email:before {
+    content: "\f664";
+}
+.picon.Relationship-love_letter_envelope_mail_email:before {
+    content: "\f665";
+}
+.picon.Relationship-love_letter_mail_email_message:before {
+    content: "\f666";
+}
+.picon.Pregnancy-and-Baby-sperm_reproduction_pregnancy_fertility:before {
+    content: "\f667";
+}
+.picon.Pregnancy-and-Baby-baby_fetus_pregnancy:before {
+    content: "\f668";
+}
+.picon.Pregnancy-and-Baby-ultra_sound_baby_fetus_pregnancy:before {
+    content: "\f669";
+}
+.picon.Pregnancy-and-Baby-baby_pregnancy_pregnant_woman:before {
+    content: "\f66a";
+}
+.picon.Pregnancy-and-Baby-contraception_pill_protection_sex_fertility:before {
+    content: "\f66b";
+}
+.picon.Pregnancy-and-Baby-dna_genetics_test:before {
+    content: "\f66c";
+}
+.picon.Pregnancy-and-Baby-baby_newborn:before {
+    content: "\f66d";
+}
+.picon.Pregnancy-and-Baby-baby_newborn:before {
+    content: "\f66e";
+}
+.picon.Pregnancy-and-Baby-baby_newborn_crying:before {
+    content: "\f66f";
+}
+.picon.Pregnancy-and-Baby-baby_newborn_first_steps:before {
+    content: "\f670";
+}
+.picon.Pregnancy-and-Baby-baby_newborn_clothes:before {
+    content: "\f671";
+}
+.picon.Pregnancy-and-Baby-baby_newborn_bottle_milk_nipple:before {
+    content: "\f672";
+}
+.picon.Pregnancy-and-Baby-baby_newborn_nipple:before {
+    content: "\f673";
+}
+.picon.Pregnancy-and-Baby-baby_kid_child_toys_playing:before {
+    content: "\f674";
+}
+.picon.Pregnancy-and-Baby-swing_kids_child_park:before {
+    content: "\f675";
+}
+.picon.Leisure-and-Fun-2-lego_toys_bricks_playing_head:before {
+    content: "\f676";
+}
+.picon.Leisure-and-Fun-2-bot_robot_toys:before {
+    content: "\f677";
+}
+.picon.Leisure-and-Fun-2-playing_cards_ace:before {
+    content: "\f678";
+}
+.picon.Leisure-and-Fun-2-playing_cards_ace:before {
+    content: "\f679";
+}
+.picon.Leisure-and-Fun-2-kite_flying_wind:before {
+    content: "\f67a";
+}
+.picon.Leisure-and-Fun-2-puzzle_game_thinking:before {
+    content: "\f67b";
+}
+.picon.Leisure-and-Fun-2-harmonica_accordion_music:before {
+    content: "\f67c";
+}
+.picon.Leisure-and-Fun-2-gamer_video_games_playing:before {
+    content: "\f67d";
+}
+.picon.Leisure-and-Fun-2-gamer_video_games_console:before {
+    content: "\f67e";
+}
+.picon.Leisure-and-Fun-2-keyboard_music_piano_notes:before {
+    content: "\f67f";
+}
+.picon.Leisure-and-Fun-2-holiday_travel_sea_relax:before {
+    content: "\f680";
+}
+.picon.Leisure-and-Fun-2-playing_tic_tac_toe_game:before {
+    content: "\f681";
+}
+.picon.Leisure-and-Fun-2-labyrinth_maze_game:before {
+    content: "\f682";
+}
+.picon.Leisure-and-Fun-2-chess_figures_pawn_bishop:before {
+    content: "\f683";
+}
+.picon.Leisure-and-Fun-2-chess_king:before {
+    content: "\f684";
+}
+.picon.Leisure-and-Fun-2-chess_queen:before {
+    content: "\f685";
+}
+.picon.Leisure-and-Fun-2-chess_rook:before {
+    content: "\f686";
+}
+.picon.Leisure-and-Fun-2-sailing_sail_boat_sea:before {
+    content: "\f687";
+}
+.picon.Leisure-and-Fun-2-boat_sea_propeller:before {
+    content: "\f688";
+}
+.picon.Leisure-and-Fun-2-sunglasses_relax:before {
+    content: "\f689";
+}
+.picon.Winter-Holidays-christmas_tree:before {
+    content: "\f68a";
+}
+.picon.Winter-Holidays-christmas_tree_bulb:before {
+    content: "\f68b";
+}
+.picon.Winter-Holidays-christmas_tree_bulb:before {
+    content: "\f68c";
+}
+.picon.Winter-Holidays-fireworks_rocket:before {
+    content: "\f68d";
+}
+.picon.Winter-Holidays-sparkler_fireworks:before {
+    content: "\f68e";
+}
+.picon.Winter-Holidays-party_celebrate_celebration:before {
+    content: "\f68f";
+}
+.picon.Winter-Holidays-candy_christmas_stick:before {
+    content: "\f690";
+}
+.picon.Winter-Holidays-bow_christmas_gift_ornament_present:before {
+    content: "\f691";
+}
+.picon.Winter-Holidays-bow_christmas_bell_ornament_present:before {
+    content: "\f692";
+}
+.picon.Winter-Holidays-christmas_greeting_card:before {
+    content: "\f693";
+}
+.picon.Winter-Holidays-christmas_gift_card_new_year:before {
+    content: "\f694";
+}
+.picon.Winter-Holidays-christmas_greeting_card_envelope:before {
+    content: "\f695";
+}
+.picon.Winter-Holidays-magic_magician_tool_wand:before {
+    content: "\f696";
+}
+.picon.Winter-Holidays-snowman_winter_snow_christmas:before {
+    content: "\f697";
+}
+.picon.Winter-Holidays-igloo_winter_snow_icehouse:before {
+    content: "\f698";
+}
+.picon.Winter-Holidays-candle_christmas_advent:before {
+    content: "\f699";
+}
+.picon.Winter-Holidays-christmas_gift_socks:before {
+    content: "\f69a";
+}
+.picon.Winter-Holidays-christmas_hand_gloves_winter_cold:before {
+    content: "\f69b";
+}
+.picon.Winter-Holidays-sweater_knit_christmas_winter:before {
+    content: "\f69c";
+}
+.picon.Winter-Holidays-knit_wool_woven:before {
+    content: "\f69d";
+}
+.picon.Food-and-Cooking-2-cooking_pan_flambate_fire:before {
+    content: "\f69e";
+}
+.picon.Food-and-Cooking-2-cooking_boiling_boil_water:before {
+    content: "\f69f";
+}
+.picon.Food-and-Cooking-2-bowls_pots_cookware:before {
+    content: "\f6a0";
+}
+.picon.Food-and-Cooking-2-dough_roller_pastry:before {
+    content: "\f6a1";
+}
+.picon.Food-and-Cooking-2-kitchenaid_hand_mixer:before {
+    content: "\f6a2";
+}
+.picon.Food-and-Cooking-2-tea_cup:before {
+    content: "\f6a3";
+}
+.picon.Food-and-Cooking-2-tea_cup:before {
+    content: "\f6a4";
+}
+.picon.Food-and-Cooking-2-fish_open_conserve_can:before {
+    content: "\f6a5";
+}
+.picon.Food-and-Cooking-2-chicken_meat_leg:before {
+    content: "\f6a6";
+}
+.picon.Food-and-Cooking-2-kebab_gyros_pita_taco:before {
+    content: "\f6a7";
+}
+.picon.Food-and-Cooking-2-egg_breakfast:before {
+    content: "\f6a8";
+}
+.picon.Food-and-Cooking-2-avocado_healthy:before {
+    content: "\f6a9";
+}
+.picon.Food-and-Cooking-2-apricot_plum_fruit:before {
+    content: "\f6aa";
+}
+.picon.Food-and-Cooking-2-bananas_fruit:before {
+    content: "\f6ab";
+}
+.picon.Food-and-Cooking-2-pineapple_ananas_fruit:before {
+    content: "\f6ac";
+}
+.picon.Food-and-Cooking-2-eggplant_aubergine:before {
+    content: "\f6ad";
+}
+.picon.Food-and-Cooking-2-corn:before {
+    content: "\f6ae";
+}
+.picon.Food-and-Cooking-2-blueberries_blackcurrant:before {
+    content: "\f6af";
+}
+.picon.Food-and-Cooking-2-egg_breakfast_bacon:before {
+    content: "\f6b0";
+}
+.picon.Food-and-Cooking-2-meat_stick_grill:before {
+    content: "\f6b1";
+}
+.picon.Food-and-Cooking-2-no_burgers_fast_food:before {
+    content: "\f6b2";
+}
+.picon.Food-and-Cooking-2-candy_bonbon:before {
+    content: "\f6b3";
+}
+.picon.Food-and-Cooking-2-menu_restaurant:before {
+    content: "\f6b4";
+}
+.picon.Food-and-Cooking-2-menu_restaurant:before {
+    content: "\f6b5";
+}
+.picon.Food-and-Cooking-2-wooden_barrel_wine_oak:before {
+    content: "\f6b6";
+}
+.picon.Food-and-Cooking-2-fish_fishing_sea_fresh:before {
+    content: "\f6b7";
+}
+.picon.Home-and-Living-2-dishwasher_kitchen:before {
+    content: "\f6b8";
+}
+.picon.Home-and-Living-2-washing_washer_dryer:before {
+    content: "\f6b9";
+}
+.picon.Home-and-Living-2-lighting_light_ceiling_pendant:before {
+    content: "\f6ba";
+}
+.picon.Home-and-Living-2-chair_interior_design:before {
+    content: "\f6bb";
+}
+.picon.Home-and-Living-2-clothes_hangers_storing:before {
+    content: "\f6bc";
+}
+.picon.Home-and-Living-2-door_handle_lock:before {
+    content: "\f6bd";
+}
+.picon.Home-and-Living-2-keys_door:before {
+    content: "\f6be";
+}
+.picon.Home-and-Living-2-doors:before {
+    content: "\f6bf";
+}
+.picon.Home-and-Living-2-trash_can:before {
+    content: "\f6c0";
+}
+.picon.Home-and-Living-2-trash_can:before {
+    content: "\f6c1";
+}
+.picon.Home-and-Living-2-water_siphon_pipes_plumbing:before {
+    content: "\f6c2";
+}
+.picon.Home-and-Living-2-cleaning_sweep:before {
+    content: "\f6c3";
+}
+.picon.Home-and-Living-2-cleaning_sweep:before {
+    content: "\f6c4";
+}
+.picon.Home-and-Living-2-toilet_wc_bathroom:before {
+    content: "\f6c5";
+}
+.picon.Home-and-Living-2-flower_plant:before {
+    content: "\f6c6";
+}
+.picon.Home-and-Living-2-cactus_plant:before {
+    content: "\f6c7";
+}
+.picon.Home-and-Living-2-flower:before {
+    content: "\f6c8";
+}
+.picon.Home-and-Living-2-rose_romantic_love:before {
+    content: "\f6c9";
+}
+.picon.Home-and-Living-2-plants_leaf_bio_protect:before {
+    content: "\f6ca";
+}
+.picon.Home-and-Living-2-recycling:before {
+    content: "\f6cb";
+}
+.picon.Home-and-Living-2-cat_pet:before {
+    content: "\f6cc";
+}
+.picon.Home-and-Living-2-dog_pet:before {
+    content: "\f6cd";
+}
+.picon.Home-and-Living-2-house_connectivity_electricity:before {
+    content: "\f6ce";
+}
+.picon.Home-and-Living-2-house_lighting_electricity:before {
+    content: "\f6cf";
+}
+.picon.Home-and-Living-2-light_bulb_lighting_eco:before {
+    content: "\f6d0";
+}
+.picon.Home-and-Living-2-light_bulb_lighting:before {
+    content: "\f6d1";
+}
+.picon.Home-and-Living-2-light_bulb_lighting_idea:before {
+    content: "\f6d2";
+}
+.picon.Home-and-Living-2-solar_roof_panels_electricity:before {
+    content: "\f6d3";
+}
+.picon.Home-and-Living-2-temperature_thermometer:before {
+    content: "\f6d4";
+}
+.picon.Home-and-Living-2-air_flow:before {
+    content: "\f6d5";
+}
+.picon.Home-and-Living-2-intelligent_house_home_remote:before {
+    content: "\f6d6";
+}
+.picon.Home-and-Living-2-heating:before {
+    content: "\f6d7";
+}
+.picon.Home-and-Living-2-fire_heating:before {
+    content: "\f6d8";
+}
+.picon.Home-and-Living-2-no_fire_heating:before {
+    content: "\f6d9";
+}
+.picon.Home-and-Living-2-thunder_lightning_electricity:before {
+    content: "\f6da";
+}
+.picon.Home-and-Living-2-thunder_lightning_electricity:before {
+    content: "\f6db";
+}
+.picon.Home-and-Living-2-fire_house_burning:before {
+    content: "\f6dc";
+}
+.picon.Home-and-Living-2-house_flood:before {
+    content: "\f6dd";
+}
+.picon.Home-and-Living-2-lightning_thunder_house:before {
+    content: "\f6de";
+}
+.picon.Home-and-Living-2-lights_bulbs_ceiling_pendants:before {
+    content: "\f6df";
+}
+.picon.Wellness-and-Beauty-spa_towel_wellness:before {
+    content: "\f6e0";
+}
+.picon.Wellness-and-Beauty-spa_lotus_lily_wellness:before {
+    content: "\f6e1";
+}
+.picon.Wellness-and-Beauty-yoga_mat:before {
+    content: "\f6e2";
+}
+.picon.Wellness-and-Beauty-beauty_diet_lose_weight_plastic_surgery:before {
+    content: "\f6e3";
+}
+.picon.Wellness-and-Beauty-diet_plastic_surgery_liposuction:before {
+    content: "\f6e4";
+}
+.picon.Wellness-and-Beauty-diet_plastic_surgery_liposuction:before {
+    content: "\f6e5";
+}
+.picon.Wellness-and-Beauty-spa_soap_foam:before {
+    content: "\f6e6";
+}
+.picon.Wellness-and-Beauty-spa_oil_massage_relax:before {
+    content: "\f6e7";
+}
+.picon.Wellness-and-Beauty-spa_mortar_cosmetics:before {
+    content: "\f6e8";
+}
+.picon.Wellness-and-Beauty-spa_hot_stones_massage_relax_wellness:before {
+    content: "\f6e9";
+}
+.picon.Wellness-and-Beauty-spa_towels:before {
+    content: "\f6ea";
+}
+.picon.Wellness-and-Beauty-spa_wellness_massage:before {
+    content: "\f6eb";
+}
+.picon.Wellness-and-Beauty-spa_oil_relax_wellness:before {
+    content: "\f6ec";
+}
+.picon.Wellness-and-Beauty-spa_wellness_sauna:before {
+    content: "\f6ed";
+}
+.picon.Wellness-and-Beauty-spa_wellness_sunbath_solarium:before {
+    content: "\f6ee";
+}
+.picon.Wellness-and-Beauty-spa_wellness_pool_jacuzzi_hot_tub:before {
+    content: "\f6ef";
+}
+.picon.Wellness-and-Beauty-spa_wellness_slippers:before {
+    content: "\f6f0";
+}
+.picon.Wellness-and-Beauty-sport_running_activity:before {
+    content: "\f6f1";
+}
+.picon.Wellness-and-Beauty-beauty_cosmetics_perfume:before {
+    content: "\f6f2";
+}
+.picon.Wellness-and-Beauty-beauty_cosmetics_mirror:before {
+    content: "\f6f3";
+}
+.picon.Wellness-and-Beauty-shaving_shaver_razor:before {
+    content: "\f6f4";
+}
+.picon.Wellness-and-Beauty-beauty_cosmetics_lipstick:before {
+    content: "\f6f5";
+}
+.picon.Wellness-and-Beauty-beauty_cosmetics_nail_polish:before {
+    content: "\f6f6";
+}
+.picon.Wellness-and-Beauty-teeth_toothbrush_toothpaste:before {
+    content: "\f6f7";
+}
+.picon.SEO-and-Marketing-seo:before {
+    content: "\f6f8";
+}
+.picon.SEO-and-Marketing-seo_ads_earning:before {
+    content: "\f6f9";
+}
+.picon.SEO-and-Marketing-seo_process_playbook:before {
+    content: "\f6fa";
+}
+.picon.SEO-and-Marketing-target_audience_users:before {
+    content: "\f6fb";
+}
+.picon.SEO-and-Marketing-target_social_activity_goal:before {
+    content: "\f6fc";
+}
+.picon.SEO-and-Marketing-target_audience_country_location:before {
+    content: "\f6fd";
+}
+.picon.SEO-and-Marketing-target_tags_keywords:before {
+    content: "\f6fe";
+}
+.picon.SEO-and-Marketing-ab_testing_variations_compare:before {
+    content: "\f6ff";
+}
+.picon.SEO-and-Marketing-click_rate_conversion_improvement:before {
+    content: "\f700";
+}
+.picon.SEO-and-Marketing-target_goal:before {
+    content: "\f701";
+}
+.picon.SEO-and-Marketing-playbook_strategy_tactics_path:before {
+    content: "\f702";
+}
+.picon.SEO-and-Marketing-analyze_website_seo_performance:before {
+    content: "\f703";
+}
+.picon.SEO-and-Marketing-speed_loading_website_seo_performance:before {
+    content: "\f704";
+}
+.picon.SEO-and-Marketing-marketing_email_newsletter_promotion:before {
+    content: "\f705";
+}
+.picon.SEO-and-Marketing-marketing_announcement_newsletter_promotion:before {
+    content: "\f706";
+}
+.picon.SEO-and-Marketing-rocket_marketing_announcement_launch_promotion_success:before {
+    content: "\f707";
+}
+.picon.SEO-and-Marketing-rocket_marketing_announcement_launch_promotion_success:before {
+    content: "\f708";
+}
+.picon.SEO-and-Marketing-sales_marketing_revenue_funnel:before {
+    content: "\f709";
+}
+.picon.SEO-and-Marketing-sales_marketing_revenue_funnel:before {
+    content: "\f70a";
+}
+.picon.SEO-and-Marketing-sales_marketing_growth_success:before {
+    content: "\f70b";
+}
+.picon.SEO-and-Marketing-sales_marketing_revenue:before {
+    content: "\f70c";
+}
+.picon.SEO-and-Marketing-target_sales_revenue_growth:before {
+    content: "\f70d";
+}
+.picon.SEO-and-Marketing-target_goal_growth_success:before {
+    content: "\f70e";
+}
+.picon.SEO-and-Marketing-target_goal_growth_success_moon:before {
+    content: "\f70f";
+}
+.picon.SEO-and-Marketing-seo_content:before {
+    content: "\f710";
+}
+.picon.SEO-and-Marketing-seo_target_goal:before {
+    content: "\f711";
+}
+.picon.SEO-and-Marketing-security_ssl_https_website:before {
+    content: "\f712";
+}
+.picon.SEO-and-Marketing-seo_report_growth_success:before {
+    content: "\f713";
+}
+.picon.SEO-and-Marketing-seo_report_performance:before {
+    content: "\f714";
+}
+.picon.SEO-and-Marketing-seo_marketing_ideas_playbook:before {
+    content: "\f715";
+}
+.picon.SEO-and-Marketing-seo_marketing_ideas_strategy_playbook:before {
+    content: "\f716";
+}
+.picon.SEO-and-Marketing-seo_marketing_content_strategy_puzzles:before {
+    content: "\f717";
+}
+.picon.Users-and-People-2-search_people_users:before {
+    content: "\f718";
+}
+.picon.Users-and-People-2-search_profile_user:before {
+    content: "\f719";
+}
+.picon.Users-and-People-2-search_text:before {
+    content: "\f71a";
+}
+.picon.Users-and-People-2-user_profile_avatar_location_pin_tag:before {
+    content: "\f71b";
+}
+.picon.Users-and-People-2-user_profile_avatar_location_pin_tag:before {
+    content: "\f71c";
+}
+.picon.Users-and-People-2-user_profile_avatar_unisex:before {
+    content: "\f71d";
+}
+.picon.Users-and-People-2-users_people_group_couple:before {
+    content: "\f71e";
+}
+.picon.Users-and-People-2-users_people_group_couple:before {
+    content: "\f71f";
+}
+.picon.Users-and-People-2-user_profile_card:before {
+    content: "\f720";
+}
+.picon.Users-and-People-2-switch_users:before {
+    content: "\f721";
+}
+.picon.Users-and-People-2-users_hierarchy_group_permissions:before {
+    content: "\f722";
+}
+.picon.Users-and-People-2-users_hierarchy_group_cloud_shared:before {
+    content: "\f723";
+}
+.picon.Users-and-People-2-user_shared_connected_relations:before {
+    content: "\f724";
+}
+.picon.Users-and-People-2-user_shared_connected_relations:before {
+    content: "\f725";
+}
+.picon.Users-and-People-2-group_people_employees:before {
+    content: "\f726";
+}
+.picon.Users-and-People-2-individual_user_one:before {
+    content: "\f727";
+}
+.picon.Users-and-People-2-winner_podium_best:before {
+    content: "\f728";
+}
+.picon.Users-and-People-2-hierarchy_users_employees_permissions:before {
+    content: "\f729";
+}
+.picon.Users-and-People-2-responsibility_user_employee:before {
+    content: "\f72a";
+}
+.picon.Communication-and-Messaging-2-chat_support_help_message:before {
+    content: "\f72b";
+}
+.picon.Communication-and-Messaging-2-chat_support_help_message:before {
+    content: "\f72c";
+}
+.picon.Communication-and-Messaging-2-chat_support_help_message:before {
+    content: "\f72d";
+}
+.picon.Communication-and-Messaging-2-discuss_support_help_message:before {
+    content: "\f72e";
+}
+.picon.Communication-and-Messaging-2-talk_chat_help_coversation_man:before {
+    content: "\f72f";
+}
+.picon.Communication-and-Messaging-2-talk_chat_help_coversation_woman:before {
+    content: "\f730";
+}
+.picon.Communication-and-Messaging-2-chat_conversation_messages:before {
+    content: "\f731";
+}
+.picon.Communication-and-Messaging-2-like_conversation:before {
+    content: "\f732";
+}
+.picon.Communication-and-Messaging-2-like_conversation:before {
+    content: "\f733";
+}
+.picon.Communication-and-Messaging-2-dialogue_bubbles:before {
+    content: "\f734";
+}
+.picon.Communication-and-Messaging-2-dialogue_users_chat_profiles:before {
+    content: "\f735";
+}
+.picon.Communication-and-Messaging-2-like_conversation:before {
+    content: "\f736";
+}
+.picon.Communication-and-Messaging-2-like_conversation:before {
+    content: "\f737";
+}
+.picon.Communication-and-Messaging-2-greeting_card_signed:before {
+    content: "\f738";
+}
+.picon.Communication-and-Messaging-2-open_envelope_letter_mail_inbox:before {
+    content: "\f739";
+}
+.picon.Communication-and-Messaging-2-open_letter_mail_inbox:before {
+    content: "\f73a";
+}
+.picon.Communication-and-Messaging-2-open_letter_mail_inbox:before {
+    content: "\f73b";
+}
+.picon.Communication-and-Messaging-2-email_mail_inbox_incoming:before {
+    content: "\f73c";
+}
+.picon.Hierarchy-hierarchy_pyramid:before {
+    content: "\f73d";
+}
+.picon.Hierarchy-hierarchy_structure:before {
+    content: "\f73e";
+}
+.picon.Hierarchy-hierarchy_structure:before {
+    content: "\f73f";
+}
+.picon.Hierarchy-hierarchy_structure:before {
+    content: "\f740";
+}
+.picon.Hierarchy-hierarchy_structure:before {
+    content: "\f741";
+}
+.picon.Hierarchy-hierarchy_structure:before {
+    content: "\f742";
+}
+.picon.Hierarchy-relations_structure_dependency:before {
+    content: "\f743";
+}
+.picon.Hierarchy-relations_structure_dependency_connections:before {
+    content: "\f744";
+}
+.picon.Hierarchy-relations_structure_dependency_connections:before {
+    content: "\f745";
+}
+.picon.Hierarchy-relations_structure_dependency_connections_molecular:before {
+    content: "\f746";
+}
+.picon.Hierarchy-flow_playbook_ifttt:before {
+    content: "\f747";
+}
+.picon.Files-and-Documents-2-file_document_approved_valid:before {
+    content: "\f748";
+}
+.picon.Files-and-Documents-2-file_document_error_unavailable:before {
+    content: "\f749";
+}
+.picon.Files-and-Documents-2-file_document_sync_refresh:before {
+    content: "\f74a";
+}
+.picon.Files-and-Documents-2-file_document_settings_options:before {
+    content: "\f74b";
+}
+.picon.Files-and-Documents-2-file_document_secure_encrypted:before {
+    content: "\f74c";
+}
+.picon.Files-and-Documents-2-code_file_document:before {
+    content: "\f74d";
+}
+.picon.Files-and-Documents-2-bugs_bug_report:before {
+    content: "\f74e";
+}
+.picon.Files-and-Documents-2-bugs_bug_report:before {
+    content: "\f74f";
+}
+.picon.Files-and-Documents-2-bugs_search_report_discover:before {
+    content: "\f750";
+}
+.picon.Files-and-Documents-2-map_folder_hidden_unavailable:before {
+    content: "\f751";
+}
+.picon.Files-and-Documents-2-ppt_powerpoint_presentation_keynote:before {
+    content: "\f752";
+}
+.picon.Files-and-Documents-2-xls_spreadsheet_excel:before {
+    content: "\f753";
+}
+.picon.Network-and-Sharing-2-shared_folder_map:before {
+    content: "\f754";
+}
+.picon.Network-and-Sharing-2-shared_folder_unavailable_disconnected:before {
+    content: "\f755";
+}
+.picon.Network-and-Sharing-2-shared_file_document:before {
+    content: "\f756";
+}
+.picon.Network-and-Sharing-2-shared_file_document_unavailable:before {
+    content: "\f757";
+}
+.picon.Network-and-Sharing-2-cloud_sharing_files:before {
+    content: "\f758";
+}
+.picon.Network-and-Sharing-2-shared_data_database:before {
+    content: "\f759";
+}
+.picon.Network-and-Sharing-2-storage_servers_data_database:before {
+    content: "\f75a";
+}
+.picon.Network-and-Sharing-2-search_storage_servers_data_database:before {
+    content: "\f75b";
+}
+.picon.Network-and-Sharing-2-private_servers_data_database:before {
+    content: "\f75c";
+}
+.picon.Network-and-Sharing-2-secure_storage_servers_data_database:before {
+    content: "\f75d";
+}
+.picon.Network-and-Sharing-2-storage_data_database_drive:before {
+    content: "\f75e";
+}
+.picon.Network-and-Sharing-2-storage_data_databases_drives:before {
+    content: "\f75f";
+}
+.picon.Network-and-Sharing-2-cloud_shared_storage_database_virtual:before {
+    content: "\f760";
+}
+.picon.Network-and-Sharing-2-cloud_shared_storage_database_virtual:before {
+    content: "\f761";
+}
+.picon.Network-and-Sharing-2-cloud_virtual_computer_remote:before {
+    content: "\f762";
+}
+.picon.Network-and-Sharing-2-cloud_unavailable_offline:before {
+    content: "\f763";
+}
+.picon.Network-and-Sharing-2-data_database_import:before {
+    content: "\f764";
+}
+.picon.Network-and-Sharing-2-data_database_import:before {
+    content: "\f765";
+}
+.picon.Network-and-Sharing-2-wi-fi_wireless_antenna_radio:before {
+    content: "\f766";
+}
+.picon.Network-and-Sharing-2-wi-fi_wireless_reception_signal:before {
+    content: "\f767";
+}
+.picon.Network-and-Sharing-2-sync_cloud_backup_computer_synced:before {
+    content: "\f768";
+}
+.picon.Network-and-Sharing-2-cloud_connected_connectivity_shared_virtual:before {
+    content: "\f769";
+}
+.picon.Network-and-Sharing-2-world_international_connected_worldwide:before {
+    content: "\f76a";
+}
+.picon.Network-and-Sharing-2-utp_network_cable_rj45_port:before {
+    content: "\f76b";
+}
+.picon.Network-and-Sharing-2-cpu_processor_chip:before {
+    content: "\f76c";
+}
+.picon.GUI-Elements-2-website_configure_appearance_customize:before {
+    content: "\f76d";
+}
+.picon.GUI-Elements-2-website_configure_settings:before {
+    content: "\f76e";
+}
+.picon.GUI-Elements-2-website_security_protection:before {
+    content: "\f76f";
+}
+.picon.GUI-Elements-2-website_user_management_editors:before {
+    content: "\f770";
+}
+.picon.GUI-Elements-2-website_content_export:before {
+    content: "\f771";
+}
+.picon.GUI-Elements-2-code:before {
+    content: "\f772";
+}
+.picon.GUI-Elements-2-webiste_editor_code:before {
+    content: "\f773";
+}
+.picon.GUI-Elements-2-editor_code:before {
+    content: "\f774";
+}
+.picon.GUI-Elements-2-editor_code:before {
+    content: "\f775";
+}
+.picon.GUI-Elements-2-editor_code_compare_window:before {
+    content: "\f776";
+}
+.picon.GUI-Elements-2-editor_add_upload_content:before {
+    content: "\f777";
+}
+.picon.GUI-Elements-2-editor_design_customize:before {
+    content: "\f778";
+}
+.picon.GUI-Elements-2-editor_preferences_settings:before {
+    content: "\f779";
+}
+.picon.GUI-Elements-2-editor_preferences_settings:before {
+    content: "\f77a";
+}
+.picon.GUI-Elements-2-editor_login_users:before {
+    content: "\f77b";
+}
+.picon.GUI-Elements-2-website_error_missing_404:before {
+    content: "\f77c";
+}
+.picon.GUI-Elements-2-editor_website_stats_analytics:before {
+    content: "\f77d";
+}
+.picon.GUI-Elements-2-dropdown:before {
+    content: "\f77e";
+}
+.picon.GUI-Elements-2-windows_copy:before {
+    content: "\f77f";
+}
+.picon.GUI-Elements-2-layers:before {
+    content: "\f780";
+}
+.picon.GUI-Elements-2-windows_cards:before {
+    content: "\f781";
+}
+.picon.GUI-Elements-2-button_click_website_url_www:before {
+    content: "\f782";
+}
+.picon.GUI-Elements-2-drag_drop_move:before {
+    content: "\f783";
+}
+.picon.GUI-Elements-2-replace_move:before {
+    content: "\f784";
+}
+.picon.GUI-Elements-2-drag_drop_move:before {
+    content: "\f785";
+}
+.picon.GUI-Elements-2-rotate:before {
+    content: "\f786";
+}
+.picon.GUI-Elements-2-sort_descending_order:before {
+    content: "\f787";
+}
+.picon.GUI-Elements-2-sort_ascending_order:before {
+    content: "\f788";
+}
+.picon.GUI-Elements_top_first_up:before {
+    content: "\f789";
+}
+.picon.GUI-Elements_bottom_last_down:before {
+    content: "\f78a";
+}
+.picon.GUI-Elements-2-maximize_window_full_screen:before {
+    content: "\f78b";
+}
+.picon.GUI-Elements-2-close_remove:before {
+    content: "\f78c";
+}
+.picon.GUI-Elements-2-close_remove:before {
+    content: "\f78d";
+}
+.picon.GUI-Elements-2-ok_success_tick:before {
+    content: "\f78e";
+}
+.picon.GUI-Elements-2-export_exit:before {
+    content: "\f78f";
+}
+.picon.GUI-Elements-2-exit_login_import:before {
+    content: "\f790";
+}
+.picon.Office-to-do_done_tasks:before {
+    content: "\f791";
+}
+.picon.Office-to-do_done_tasks:before {
+    content: "\f792";
+}
+.picon.Office-to-do_done_list_tasks:before {
+    content: "\f793";
+}
+.picon.Office-to-do_done_list_tasks:before {
+    content: "\f794";
+}
+.picon.Office-project_management_tasks:before {
+    content: "\f795";
+}
+.picon.Office-list_clipboard_notes:before {
+    content: "\f796";
+}
+.picon.Office-notes_notebook:before {
+    content: "\f797";
+}
+.picon.Office-library_folders_office_documents_archive:before {
+    content: "\f798";
+}
+.picon.Office-library_folders_office_documents:before {
+    content: "\f799";
+}
+.picon.Office-library_archive_document:before {
+    content: "\f79a";
+}
+.picon.Office-notes_post-it_clip:before {
+    content: "\f79b";
+}
+.picon.Office-sharpener_pencil:before {
+    content: "\f79c";
+}
+.picon.Office-stapler_office_clip:before {
+    content: "\f79d";
+}
+.picon.Office-signature_sign:before {
+    content: "\f79e";
+}
+.picon.Office-writing_content_desktop:before {
+    content: "\f79f";
+}
+.picon.Office-writing_content_laptop:before {
+    content: "\f7a0";
+}
+.picon.Office-writer_content_machine:before {
+    content: "\f7a1";
+}
+.picon.Office-scanner_platbed:before {
+    content: "\f7a2";
+}
+.picon.Office-printer_fax_documents:before {
+    content: "\f7a3";
+}
+.picon.Office-envelope_mail:before {
+    content: "\f7a4";
+}
+.picon.Office-office_chair:before {
+    content: "\f7a5";
+}
+.picon.Law-Enforcement-gun_revolver_murder:before {
+    content: "\f7a6";
+}
+.picon.Law-Enforcement-bullet_war:before {
+    content: "\f7a7";
+}
+.picon.Law-Enforcement-police_badge_investigating:before {
+    content: "\f7a8";
+}
+.picon.Law-Enforcement-police_department_investigating:before {
+    content: "\f7a9";
+}
+.picon.Law-Enforcement-police_crime_scene_investigating:before {
+    content: "\f7aa";
+}
+.picon.Law-Enforcement-dna_evidence_investigating:before {
+    content: "\f7ab";
+}
+.picon.Law-Enforcement-fingerprint_prints_evidence_investigating:before {
+    content: "\f7ac";
+}
+.picon.Law-Enforcement-foot_prints_evidence_investigating:before {
+    content: "\f7ad";
+}
+.picon.Law-Enforcement-murder_gun_weapon_evidence:before {
+    content: "\f7ae";
+}
+.picon.Law-Enforcement-handcuffs_arrest:before {
+    content: "\f7af";
+}
+.picon.Law-Enforcement-law_crime_judge:before {
+    content: "\f7b0";
+}
+.picon.Law-Enforcement-law_crime_judgement_verdict:before {
+    content: "\f7b1";
+}
+.picon.Law-Enforcement-international_crime_law:before {
+    content: "\f7b2";
+}
+.picon.Law-Enforcement-crime_law_judgement_justice:before {
+    content: "\f7b3";
+}
+.picon.Law-Enforcement-jury_court_guilty:before {
+    content: "\f7b4";
+}
+.picon.Law-Enforcement-conviction_prison_arrest_guilty_locked:before {
+    content: "\f7b5";
+}
+.picon.Law-Enforcement-conviction_prison_arrest_guilty_locked_criminal:before {
+    content: "\f7b6";
+}
+.picon.Touch-Gestures-2-touchpad_touch_click:before {
+    content: "\f7b7";
+}
+.picon.Touch-Gestures-2-touchpad_touch_click_mobile:before {
+    content: "\f7b8";
+}
+.picon.Touch-Gestures-2-touch_press_button_click:before {
+    content: "\f7b9";
+}
+.picon.Touch-Gestures-2-holding_paper_reading_both_hands:before {
+    content: "\f7ba";
+}
+.picon.Touch-Gestures-2-holding_hands_device:before {
+    content: "\f7bb";
+}
+.picon.Touch-Gestures-2-gesture_showing_finger:before {
+    content: "\f7bc";
+}
+.picon.Touch-Gestures-2-gesture_fuck_you_middle_finger:before {
+    content: "\f7bd";
+}
+.picon.Touch-Gestures-2-gesture_perfect_good:before {
+    content: "\f7be";
+}
